@@ -6,10 +6,12 @@ Date ,Day of Challenge ,Activities ,Links
 ,,,
 ,,,
 ,,,
-"2019-07-19, Monday",11,"It took 1 hour to train a basic deep learning chatbot model on my laptop. Then I moved the model to Colaboratory (Colab, Google free Cloud service), adjusted settings, selected GPU as Hardware accelerator, mounted my Google Drive, downloaded the dataset (corpus) directly to Google Drive via Google Colab. I took a few minutes to run the whole model with Colab. Nothing gets me moving like a completed task.",
-,,,https://colab.research.google.com/drive/1XgymVaAdjrEuMWGxekqlMvtgkSBLZLIz
-,,,https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562576816413900
-,,,https://github.com/reallygooday/60daysofudacity/blob/master/chatbot.ipynb
+"2019-07-19, Monday",11,It took 1 hour to train a basic deep learning chatbot model on my laptop. ,
+,,"Then I moved the model to Colaboratory (Colab, Google free Cloud service), adjusted settings, ",https://colab.research.google.com/drive/1XgymVaAdjrEuMWGxekqlMvtgkSBLZLIz
+,,"selected GPU as Hardware accelerator, mounted my Google Drive, downloaded the dataset (corpus) directly to Google Drive via Google Colab.",https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562576816413900
+,,I took a few minutes to run the whole model with Colab. Nothing gets me moving like a completed task.,https://github.com/reallygooday/60daysofudacity/blob/master/chatbot.ipynb
+,,,
+,,,
 ,,,
 "2019-07-09, Tuesday",12,"attended a virtual meeting, Study Group sg_applied_dl at 3:30 BST",https://github.com/reallygooday/60daysofudacity/blob/master/day_12.pdf
 ,,"started reading book ""PyTorch Recepes A Problem-Solution Approach""by Pradeepta Mishra",
