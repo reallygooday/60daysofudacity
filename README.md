@@ -22,17 +22,23 @@ https://sites.google.com/udacity.com/secureprivateai-challenge/community/60dayso
 
 - Day 16, July 13, Saturday: continued working on Dog Breed Identification project. I encourage @Lakshay Wadhwa @K3NNi @J.D.V.P.REDDY @Hachiman @Gabor Soter @Fabio @Daibin Raju @Waad Gamal Shehabeldin @R Aishwarya @medhagupta098 @falconArrow @hammedb @Vaibhav @Claudia Hill @Xiaolei Zhang @Yanbin Zhang.
 
+- Day 17, July 14, Sunday: continued working on Dog Breed Identification project
 
-- Day 17, July 14, Sunday:
+- Day 18, July 15, Monday: registered for AWS Online Conference on the 18th July to learn how to deploy a basic deep learning model on cloud; encoraged @ Marcos Junior to take up challenge; continued working on Dog Breed Identification project on Kaggle (got stuck with Value Error) https://www.kaggle.com/reallygooday/dog-breed-identification-exploration
+
+- Day 19, July 16, Tuesday: read "PyTorch Recipes" by Pradeepta Mishra.
+
+- Day 20, July 17, Wednesday: read book "Deep Learning with PyTorch" by Vishnu Subramanian.
+
+- Day 21, July 18, Thursday: attended/ watched the AWS Innovate Conference online about PyTorch inference with Amazon SageMaker; https://github.com/reallygooday/60daysofudacity/blob/master/PyTorch_Opensource%2BML%2Bframeworks%2Bon%2BAmazon%2BSageMaker.pdf
 
 
-- Day 18, July 15, Monday:
+- Day 22, July 19, Friday:
 
 
-- Day 19, July 16, Tuesday:
+- Day 23, July 20, Saturday:
 
 
-- Day 20, July 17, Wednesday:
 
 
 
