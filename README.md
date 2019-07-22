@@ -31,7 +31,6 @@ https://sites.google.com/udacity.com/secureprivateai-challenge/community/60dayso
 - Day 20, July 17, Wednesday: read book "Deep Learning with PyTorch" by Vishnu Subramanian.
 
 - Day 21, July 18, Thursday: attended/ watched the AWS Innovate Conference online about PyTorch inference with Amazon SageMaker.
-
 Link: https://github.com/reallygooday/60daysofudacity/blob/master/PyTorch_Opensource%2BML%2Bframeworks%2Bon%2BAmazon%2BSageMaker.pdf
 
 
