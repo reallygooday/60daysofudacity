@@ -59,6 +59,7 @@ I encourage to succeed the following talented students @hamzzy @Nabilah Hannani 
 - Day 26, July 23, Tuesday:  
 
 
+- Day 27, July 24, Wednesday:  
 
 
 
