@@ -49,12 +49,14 @@ I encourage @Reem Qais @Cristian Lazo Quispe @Brandon W @Eman @Nada Hammad @Ravi
 Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563745328450600
 
 
-- Day 25, July 22, Monday: 
+- Day 25, July 22, Monday:                                                                                                         Getting comfortable coding and making predictions with a basic PyTorch Linear Model. 
+Link to Colab Jupyter Notebook:
+https://colab.research.google.com/drive/19QYWp_lExrN65b6OesWS9NNA7x0fHKmq#scrollTo=KOl9mFXs7ja8----
+Link to GitHUb repo Jupyter Notebook: 
+https://github.com/reallygooday/60daysofudacity/blob/master/Day25_Linear_Model.ipynb
+I encourage to succeed the following talented students @hamzzy @Nabilah Hannani @R Aishwarya @birozso @Pablo @Naveen Tadala @Vaibhav @Claudia Hill @Xenofon Karamanos @zilu.
 
-
-
-
-
+- Day 26, July 23, Tuesday:  
 
 
 
