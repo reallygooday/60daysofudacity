@@ -33,10 +33,22 @@ https://sites.google.com/udacity.com/secureprivateai-challenge/community/60dayso
 - Day 21, July 18, Thursday: attended/ watched the AWS Innovate Conference online about PyTorch inference with Amazon SageMaker; https://github.com/reallygooday/60daysofudacity/blob/master/PyTorch_Opensource%2BML%2Bframeworks%2Bon%2BAmazon%2BSageMaker.pdf
 
 
-- Day 22, July 19, Friday:
+- Day 22, July 19, Friday: Read the book "Deep Learning with PyTorch" by Vishu Subramanian.
+https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563570031267300
 
 
-- Day 23, July 20, Saturday:
+- Day 23, July 20, Saturday: Keep on reading the book "Python Data Analytics" Fabio Nelli.
+I encourage @Qazi Rameez Bin Naeem @Ahmad Waly @Eben O @Reem Qais @Tasmiyah Qazi @Elif Yalı@Ugesh S @hamzzy @Temitope Oladokun @Pablo @R Aishwarya @Saleeta Qadir@Daibin Raju @Fabian Schimpf @Gaurav Yadav @Heather Allen @Jacqueline @hamzzy@Jeremiah Kamama @karthik s @Lakshya Mutneja @Cristina Zapata @Jia Xia @Christian I. Muñoz @Vaishnav Potlapalli @Bharat Bhushan Mishra @Nada Hammad @Superuser@Udolf to share your learning adventure and progress.
+Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563659304247700
+
+
+- Day 24, July 21, Sunday:  reading the book "Python Deep Learning" (exploring deep learning techniques and neural network architectures with PyTorch)
+by Ivan Vasilev, Daniel Slater, Gianmario Spacagna, Peter Roelants, Valentino Zocca.
+I encourage @Reem Qais @Cristian Lazo Quispe @Brandon W @Eman @Nada Hammad @Ravikant Singh @Tesin Dosch @Ayush Yadav @Udit Singhania @Ignacio Palos Reynoso @Christian I. Muñoz @Olivia Wais @Pablo Martínez @R Aishwarya @Fabian Schimpf @Dheemanth M D @Faiz Kidwai @Felipe Damascena @Gabriel Giro Resende @Hafsa Sam @Jade Mays @Hadeel Alabandi @K3NNi @kumarklc to keep constant thirst for new knowledge.
+Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563745328450600
+
+
+- Day 25, July 22, Monday: 
 
 
 
