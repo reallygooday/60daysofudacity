@@ -60,7 +60,7 @@ ____
 
 - **Day 21, July 18, Thursday**: attended/ watched the AWS Innovate Conference online about PyTorch inference with Amazon SageMaker.
 
-    Link: https://github.com/reallygooday/60daysofudacity/blob/master/PyTorch_Opensource%2BML%2Bframeworks%2Bon%2BAmazon%2BSageMaker.pdf
+    Link to the presentation file: https://github.com/reallygooday/60daysofudacity/blob/master/PyTorch_Opensource%2BML%2Bframeworks%2Bon%2BAmazon%2BSageMaker.pdf
     
     ![alt text](/image/sagemaker.png)
 
@@ -68,7 +68,7 @@ ____
 
 - **Day 22, July 19, Friday**: Read the book "Deep Learning with PyTorch" by Vishu Subramanian.
 
-    Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563570031267300
+    Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563570031267300
     
     ![alt text](/image/vishnu2.png)   
 ____
@@ -76,7 +76,7 @@ ____
 - **Day 23, July 20, Saturday**: Keep on reading the book "Python Data Analytics" Fabio Nelli.
     I encourage @Qazi Rameez Bin Naeem @Ahmad Waly @Eben O @Reem Qais @Tasmiyah Qazi @Elif Yalı@Ugesh S @hamzzy @Temitope Oladokun        @Pablo @R Aishwarya @Saleeta Qadir@Daibin Raju @Fabian Schimpf @Gaurav Yadav @Heather Allen @Jacqueline @hamzzy@Jeremiah Kamama @karthik s @Lakshya Mutneja @Cristina Zapata @Jia Xia @Christian I. Muñoz @Vaishnav Potlapalli @Bharat Bhushan Mishra @Nada Hammad   @Superuser@Udolf to share your learning adventure and progress.
     
-    Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563659304247700
+    Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563659304247700
     
      ![alt text](/image/fabio.png)
 ____
@@ -86,7 +86,7 @@ ____
   
    I encourage @Reem Qais @Cristian Lazo Quispe @Brandon W @Eman @Nada Hammad @Ravikant Singh @Tesin Dosch @Ayush Yadav @Udit Singhania     @Ignacio Palos Reynoso @Christian I. Muñoz @Olivia Wais @Pablo Martínez @R Aishwarya @Fabian Schimpf @Dheemanth M D @Faiz Kidwai         @Felipe Damascena @Gabriel Giro Resende @Hafsa Sam @Jade Mays @Hadeel Alabandi @K3NNi @kumarklc to keep constant thirst for new         knowledge.
   
-   Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563745328450600
+   Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563745328450600
    
    
     ![alt text](/image/pdl.png) 
@@ -102,6 +102,8 @@ ____
     https://github.com/reallygooday/60daysofudacity/blob/master/Day25_Linear_Model.ipynb
   
     Encouragements: I encourage to succeed the following talented students @hamzzy @Nabilah Hannani @R Aishwarya @birozso @Pablo @Naveen     Tadala @Vaibhav     @Claudia Hill @Xenofon Karamanos @zilu.
+    
+    Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563809544107500    
 ____
 - **Day 26, July 23, Tuesday**:  
     Trained a linear model to fit training data using gradient descent. 
@@ -112,7 +114,9 @@ ____
     
     Encouragements to @Saleeta Qadir and @waleed hassan.
     
-![alt text](/image/lr.png)
+    Link to the Slack post:https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563875855292000?thread_ts=1563875855.292000    
+    
+    ![alt text](/image/lr.png)
 ____
 
 - **Day 27, July 24, Wednesday**:  
