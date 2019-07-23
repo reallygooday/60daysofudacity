@@ -105,27 +105,40 @@ ____
 ____
 
 - **Day 27, July 24, Wednesday**:  
-
+____
 
 - **Day 28, July 25, Thursday**:  
-
+____
 
 - **Day 29, July 26, Friday**:  
-
+____
 
 - **Day 30, July 27, Saturday**:  
-
+____
 
 - **Day 31, July 28, Sunday**:  
-
+____
 
 - **Day 32, July 29, Monday**:  
-
+____
 
 - **Day 33, July 30, Tuesday**:  
-
+____
 
 - **Day 34, July 31, Wednesday**:  
+___
+
+- **Day 35, August 1, Thursday**:  
+____
+
+- **Day 36, August 2, Friday**:  
+____
+
+- **Day 37, August 3, Saturday**:  
+____
+
+- **Day 38, August 4, Sunday**: 
+
 
 
 
