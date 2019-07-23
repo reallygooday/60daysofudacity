@@ -1,4 +1,5 @@
-____
+
+<img align="right" width="100" height="100" src="/image/ai.png">
 
 #        **#UDACITY FACEBOOK SCHOLAR**                         **#60 DAYS OF UDACITY** 
 
