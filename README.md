@@ -13,7 +13,7 @@ ____
 
 - Day 11, July 8th, Monday:  It took 1 hour to train a basic deep learning chatbot model on my laptop. Then I moved the model to           Colaboratory (Colab, Google free Cloud service), adjusted settings, selected GPU as Hardware accelerator, mounted my Google Drive,       downloaded the dataset (corpus) directly to Google Drive via Google Colab. I took a few minutes to run the whole model with Colab.       Nothing gets me moving like a completed task.
 
-  ![alt text](/image/chatbot.png)
+  ![alt text](/image/bot3.png)
   
 ____
 - Day 12, July 9th, Tuesday: participated at study group virtual meeting, worked on chatbot, started reading book "PyTorch A Problem-Solution Approach" by Pradeepta Mishra.
