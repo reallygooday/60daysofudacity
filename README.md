@@ -41,7 +41,7 @@ ____
 
 - **Day 19, July 16, Tuesday**: read "PyTorch Recipes" by Pradeepta Mishra.
 
-   ![alt text](/image/recipies.png)
+   ![alt text](/image/mishra.png)
 
 ____
 
