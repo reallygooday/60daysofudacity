@@ -11,24 +11,27 @@ ____
 ![alt text](/image/l.png)
 ____
 
-- Day 11, July 8th, Monday:  It took 1 hour to train a basic deep learning chatbot model on my laptop. Then I moved the model to           Colaboratory (Colab, Google free Cloud service), adjusted settings, selected GPU as Hardware accelerator, mounted my Google Drive,       downloaded the dataset (corpus) directly to Google Drive via Google Colab. I took a few minutes to run the whole model with Colab.       Nothing gets me moving like a completed task.
+- **Day 11, July 8th, Monday**:  It took 1 hour to train a basic deep learning chatbot model on my laptop. Then I moved the model to           Colaboratory (Colab, Google free Cloud service), adjusted settings, selected GPU as Hardware accelerator, mounted my Google Drive,       downloaded the dataset (corpus) directly to Google Drive via Google Colab. I took a few minutes to run the whole model with Colab.       Nothing gets me moving like a completed task.
 
   ![alt text](/image/bot3.png)
   
 ____
-- Day 12, July 9th, Tuesday: participated at study group virtual meeting, worked on chatbot, started reading book "PyTorch A Problem-Solution Approach" by Pradeepta Mishra.
+- **Day 12, July 9th, Tuesday**: participated at study group virtual meeting, worked on chatbot, started reading book "PyTorch A             Problem-Solution Approach" by Pradeepta Mishra.
 
 ____
-- Day 13, July 10th, Wednesday: worked on Dog Identification project, encourage @Ricardo Felipe Redin @Eric Ndirangu @Ahmad Waly @Y. Leonce Eyog  @PJha to share the progress on learning and @Marcos Junior @Fitsum Ayalew to take up the challenge.
+- **Day 13, July 10th, Wednesday**: worked on Dog Identification project, encourage @Ricardo Felipe Redin @Eric Ndirangu @Ahmad Waly @Y.     Leonce Eyog  @PJha to share the progress on learning and @Marcos Junior @Fitsum Ayalew to take up the challenge.
 
 ____
-- Day 14, July 11, Thursday: continued working on Dog Breed Identification project. I encourage @hammedb @Aakanksha Dhurandhar @Idan    Benaun to share the learning progress.
+- **Day 14, July 11, Thursday**: continued working on Dog Breed Identification project. 
+    I encourage @hammedb @Aakanksha Dhurandhar @Idan    Benaun to share the learning progress.
 ____
 
-- Day 15, July 12, Friday: continued working on Dog Breed Identification. I encourage @Pablo Carmona - Zuluaga @hammedb @Idan Benaun @Idan Benaun @uday.kiran @Yanbin Zhang @Temitope Oladokun @Rabin Banjade @Elif Yalı @R Aishwarya @Elif Yalı @Waad Gamal Shehabeldin @qayyumb to share the learning progress. Time, when it left to itself, cannot be trusted to move at any pace.
+- **Day 15, July 12, Friday**: continued working on Dog Breed Identification. 
+    I encourage @Pablo Carmona - Zuluaga @hammedb @Idan Benaun @Idan Benaun @uday.kiran @Yanbin Zhang @Temitope Oladokun @Rabin Banjade @Elif Yalı @R Aishwarya @Elif Yalı @Waad Gamal Shehabeldin @qayyumb to share the learning progress. 
+    Time, when it left to itself, cannot be trusted to move at any pace.
 ____
 
-- Day 16, July 13, Saturday: continued working on Dog Breed Identification project. I encourage @Lakshay Wadhwa @K3NNi @J.D.V.P.REDDY  @Hachiman @Gabor Soter @Fabio @Daibin Raju @Waad Gamal Shehabeldin @R Aishwarya @medhagupta098 @falconArrow @hammedb @Vaibhav @Claudia  Hill @Xiaolei Zhang @Yanbin Zhang.
+- **Day 16, July 13, Saturday**: continued working on Dog Breed Identification project. I encourage @Lakshay Wadhwa @K3NNi @J.D.V.P.REDDY  @Hachiman @Gabor Soter @Fabio @Daibin Raju @Waad Gamal Shehabeldin @R Aishwarya @medhagupta098 @falconArrow @hammedb @Vaibhav @Claudia  Hill @Xiaolei Zhang @Yanbin Zhang.
 ____
 
 - **Day 17, July 14, Sunday**: continued working on Dog Breed Identification project
@@ -66,12 +69,16 @@ ____
 - **Day 22, July 19, Friday**: Read the book "Deep Learning with PyTorch" by Vishu Subramanian.
 
     Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563570031267300
+    
+    ![alt text](/image/vishnu.png)   
 ____
 
 - **Day 23, July 20, Saturday**: Keep on reading the book "Python Data Analytics" Fabio Nelli.
     I encourage @Qazi Rameez Bin Naeem @Ahmad Waly @Eben O @Reem Qais @Tasmiyah Qazi @Elif Yalı@Ugesh S @hamzzy @Temitope Oladokun        @Pablo @R Aishwarya @Saleeta Qadir@Daibin Raju @Fabian Schimpf @Gaurav Yadav @Heather Allen @Jacqueline @hamzzy@Jeremiah Kamama @karthik s @Lakshya Mutneja @Cristina Zapata @Jia Xia @Christian I. Muñoz @Vaishnav Potlapalli @Bharat Bhushan Mishra @Nada Hammad   @Superuser@Udolf to share your learning adventure and progress.
     
     Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563659304247700
+    
+     ![alt text](/image/fabio.png)
 ____
 
 - **Day 24, July 21, Sunday**:  reading the book "Python Deep Learning" (exploring deep learning techniques and neural network architectures   with PyTorch)
@@ -80,7 +87,11 @@ ____
    I encourage @Reem Qais @Cristian Lazo Quispe @Brandon W @Eman @Nada Hammad @Ravikant Singh @Tesin Dosch @Ayush Yadav @Udit Singhania     @Ignacio Palos Reynoso @Christian I. Muñoz @Olivia Wais @Pablo Martínez @R Aishwarya @Fabian Schimpf @Dheemanth M D @Faiz Kidwai         @Felipe Damascena @Gabriel Giro Resende @Hafsa Sam @Jade Mays @Hadeel Alabandi @K3NNi @kumarklc to keep constant thirst for new         knowledge.
   
    Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563745328450600
-____
+   
+   
+    ![alt text](/image/pdl.png) 
+ 
+ ____
 
 - **Day 25, July 22, Monday**:                                                                                                                 Getting comfortable coding and making predictions with a basic PyTorch Linear Model. 
 
