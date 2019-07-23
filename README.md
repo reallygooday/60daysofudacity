@@ -1,24 +1,14 @@
 
 <img align="right" width="400" height="200" src="/image/ai.png">
 
-
-
-
-#**#UDACITY FACEBOOK SCHOLAR**
-
-
-#**#60 DAYS OF UDACITY** 
+**60 DAYS OF UDACITY** 
 
 Link: https://sites.google.com/udacity.com/secureprivateai-challenge/community/60daysofudacity?authuser=0
 ____
 
 ## *POSTING MY DAILY REPORTS*
-
-
-
 ____
 ![alt text](/image/l.png)
-
 ____
 
 - Day 11, July 8th, Monday:  It took 1 hour to train a basic deep learning chatbot model on my laptop. Then I moved the model to Colaboratory (Colab, Google free Cloud service), adjusted settings, selected GPU as Hardware accelerator, mounted my Google Drive, downloaded the dataset (corpus) directly to Google Drive via Google Colab. I took a few minutes to run the whole model with Colab. Nothing gets me moving like a completed task.
