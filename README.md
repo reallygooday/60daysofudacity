@@ -4,8 +4,11 @@
 
 https://sites.google.com/udacity.com/secureprivateai-challenge/community/60daysofudacity?authuser=0
 
-![alt text](/image/ai.jpg)
-![alt text](/image/l.jpg)
+
+____
+![alt text](/image/ai.png)
+____
+![alt text](/image/l.png)
 
 ____
 
