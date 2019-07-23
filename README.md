@@ -1,6 +1,6 @@
-# 60daysofudacity
+# **#60daysofudacity**
 
-## posting my daily reports
+## *POSTING MY DAILY REPORTS*
 
 https://sites.google.com/udacity.com/secureprivateai-challenge/community/60daysofudacity?authuser=0
 
