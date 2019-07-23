@@ -35,25 +35,32 @@ ____
 - **Day 18, July 15, Monday**: registered for AWS Online Conference on the 18th July to learn how to deploy a basic deep learning model    on cloud; encoraged @ Marcos Junior to take up challenge; continued working on Dog Breed Identification project on Kaggle (got stuck    with Value Error) https://www.kaggle.com/reallygooday/dog-breed-identification-exploration
 
 
-![alt text](/image/innovate.png)
+   ![alt text](/image/innovate.png)
 ____
+
 
 - **Day 19, July 16, Tuesday**: read "PyTorch Recipes" by Pradeepta Mishra.
 
-    <img align="left" width="200" height="400" src="/image/recipies.png">
+   ![alt text](/image/recipies.png)
+
 ____
+
 - **Day 20, July 17, Wednesday**: 
   read book "Deep Learning with PyTorch" by Vishnu Subramanian;
   registered for AWS DeepRacer Challenge with Udacity.
   
-  <img align="left" width="400" height="200" src="/image/racer.png">
+  ![alt text](/image/racer.png)  
+ 
 ____
+
 - **Day 21, July 18, Thursday**: attended/ watched the AWS Innovate Conference online about PyTorch inference with Amazon SageMaker.
 
     Link: https://github.com/reallygooday/60daysofudacity/blob/master/PyTorch_Opensource%2BML%2Bframeworks%2Bon%2BAmazon%2BSageMaker.pdf
+    
+    ![alt text](/image/sagemaker.png)
 
-    <img align="left" width="400" height="200" src="/image/sagemaker.png">
 ____
+
 - **Day 22, July 19, Friday**: Read the book "Deep Learning with PyTorch" by Vishu Subramanian.
 
     Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563570031267300
@@ -91,6 +98,7 @@ ____
     Link to Colab Jupyter Notebook:  https://colab.research.google.com/drive/19QYWp_lExrN65b6OesWS9NNA7x0fHKmq#scrollTo=0-bLHYJDxUzn
     
     Encouragements to @Saleeta Qadir and @waleed hassan.
+    
 ![alt text](/image/lr.png)
 ____
 
