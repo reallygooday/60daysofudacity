@@ -80,7 +80,7 @@ Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p15636593042477
 - **Day 29, July 26, Friday**:  
 
 
-- **Day 30, July 27, Saturday:  
+- **Day 30, July 27, Saturday**:  
 
 
 - **Day 31, July 28, Sunday**:  
