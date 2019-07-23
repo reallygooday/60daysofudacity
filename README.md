@@ -1,7 +1,10 @@
-# **#60daysofudacity**
+____
 
+# **#60 DAYS OF UDACITY** 
+# **#UDACITY FACEBOOK SCHOLAR**
+____
 ## *POSTING MY DAILY REPORTS*
-
+____
 https://sites.google.com/udacity.com/secureprivateai-challenge/community/60daysofudacity?authuser=0
 
 
