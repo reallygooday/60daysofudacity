@@ -70,7 +70,7 @@ ____
 
     Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563570031267300
     
-    ![alt text](/image/vishnu.png)   
+    ![alt text](/image/vishnu2.png)   
 ____
 
 - **Day 23, July 20, Saturday**: Keep on reading the book "Python Data Analytics" Fabio Nelli.
