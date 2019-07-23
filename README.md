@@ -58,6 +58,12 @@ I encourage to succeed the following talented students @hamzzy @Nabilah Hannani 
 
 - Day 26, July 23, Tuesday:  
 
+Link to GitHub Jupyter Notebook: https://github.com/reallygooday/60daysofudacity/blob/master/Day26_July22_Linear_Regression.ipynb  
+
+Link to Colab Jupyter Notebook:  https://colab.research.google.com/drive/19QYWp_lExrN65b6OesWS9NNA7x0fHKmq#scrollTo=0-bLHYJDxUzn
+
+
+
 
 - Day 27, July 24, Wednesday:  
 
