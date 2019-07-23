@@ -1,11 +1,11 @@
 ____
 
-# **#60 DAYS OF UDACITY** 
-# **#UDACITY FACEBOOK SCHOLAR**
+#        **#UDACITY FACEBOOK SCHOLAR**                         **#60 DAYS OF UDACITY** 
+
+Link: https://sites.google.com/udacity.com/secureprivateai-challenge/community/60daysofudacity?authuser=0
 ____
+
 ## *POSTING MY DAILY REPORTS*
-____
-https://sites.google.com/udacity.com/secureprivateai-challenge/community/60daysofudacity?authuser=0
 
 
 ____
@@ -31,10 +31,13 @@ ____
 
 
 - Day 16, July 13, Saturday: continued working on Dog Breed Identification project. I encourage @Lakshay Wadhwa @K3NNi @J.D.V.P.REDDY @Hachiman @Gabor Soter @Fabio @Daibin Raju @Waad Gamal Shehabeldin @R Aishwarya @medhagupta098 @falconArrow @hammedb @Vaibhav @Claudia Hill @Xiaolei Zhang @Yanbin Zhang.
+____
 
 - Day 17, July 14, Sunday: continued working on Dog Breed Identification project
 
 - Day 18, July 15, Monday: registered for AWS Online Conference on the 18th July to learn how to deploy a basic deep learning model on cloud; encoraged @ Marcos Junior to take up challenge; continued working on Dog Breed Identification project on Kaggle (got stuck with Value Error) https://www.kaggle.com/reallygooday/dog-breed-identification-exploration
+![alt text](/image/innovate.png)
+____
 
 - Day 19, July 16, Tuesday: read "PyTorch Recipes" by Pradeepta Mishra.
 
