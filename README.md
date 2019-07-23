@@ -14,9 +14,9 @@ ____
 
 - **Day 10, July 7th, Sunday**: getting comfortable coding with tensors.
 
-Link to GitHUb Jupyter Notebook:https://github.com/reallygooday/60daysofudacity/blob/master/intro_to_tensors.ipynb
+    Link to GitHUb Jupyter Notebook:https://github.com/reallygooday/60daysofudacity/blob/master/intro_to_tensors.ipynb
 
-Link to Colab Jupyter Notebook: https://colab.research.google.com/drive/1Z2o5t8-yrwtu9LCRgcbxmCwTyaQOHx-s#scrollTo=hI7zQLnAf1Q3  
+    Link to Colab Jupyter Notebook: https://colab.research.google.com/drive/1Z2o5t8-yrwtu9LCRgcbxmCwTyaQOHx-s#scrollTo=hI7zQLnAf1Q3  
 ____
 
 - **Day 11, July 8th, Monday**:  It took 1 hour to train a basic deep learning chatbot model on my laptop. Then I moved the model to           Colaboratory (Colab, Google free Cloud service), adjusted settings, selected GPU as Hardware accelerator, mounted my Google Drive,       downloaded the dataset (corpus) directly to Google Drive via Google Colab. I took a few minutes to run the whole model with Colab.       Nothing gets me moving like a completed task.
