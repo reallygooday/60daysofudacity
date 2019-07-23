@@ -1,5 +1,6 @@
 
-<img align="right" width="100" height="100" src="/image/ai.png">
+<img align="right" width="200" height="100" src="/image/ai.png">
+____
 
 #        **#UDACITY FACEBOOK SCHOLAR**                         **#60 DAYS OF UDACITY** 
 
@@ -9,8 +10,7 @@ ____
 ## *POSTING MY DAILY REPORTS*
 
 
-____
-![alt text](/image/ai.png)
+
 ____
 ![alt text](/image/l.png)
 
@@ -37,6 +37,8 @@ ____
 - Day 17, July 14, Sunday: continued working on Dog Breed Identification project
 
 - Day 18, July 15, Monday: registered for AWS Online Conference on the 18th July to learn how to deploy a basic deep learning model on cloud; encoraged @ Marcos Junior to take up challenge; continued working on Dog Breed Identification project on Kaggle (got stuck with Value Error) https://www.kaggle.com/reallygooday/dog-breed-identification-exploration
+
+
 ![alt text](/image/innovate.png)
 ____
 
