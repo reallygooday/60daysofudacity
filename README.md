@@ -1,8 +1,11 @@
 
-<img align="right" width="200" height="100" src="/image/ai.png">
+<img align="right" width="400" height="200" src="/image/ai.png">
 ____
 
-#        **#UDACITY FACEBOOK SCHOLAR**                         **#60 DAYS OF UDACITY** 
+#        **#UDACITY FACEBOOK SCHOLAR**
+
+
+#        **#60 DAYS OF UDACITY** 
 
 Link: https://sites.google.com/udacity.com/secureprivateai-challenge/community/60daysofudacity?authuser=0
 ____
