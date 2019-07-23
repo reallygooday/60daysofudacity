@@ -43,20 +43,25 @@ I encourage @Qazi Rameez Bin Naeem @Ahmad Waly @Eben O @Reem Qais @Tasmiyah Qazi
 Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563659304247700
 
 
-- Day 24, July 21, Sunday:  reading the book "Python Deep Learning" (exploring deep learning techniques and neural network architectures with PyTorch)
-by Ivan Vasilev, Daniel Slater, Gianmario Spacagna, Peter Roelants, Valentino Zocca.
-I encourage @Reem Qais @Cristian Lazo Quispe @Brandon W @Eman @Nada Hammad @Ravikant Singh @Tesin Dosch @Ayush Yadav @Udit Singhania @Ignacio Palos Reynoso @Christian I. Muñoz @Olivia Wais @Pablo Martínez @R Aishwarya @Fabian Schimpf @Dheemanth M D @Faiz Kidwai @Felipe Damascena @Gabriel Giro Resende @Hafsa Sam @Jade Mays @Hadeel Alabandi @K3NNi @kumarklc to keep constant thirst for new knowledge.
-Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563745328450600
+- Day 24, July 21, Sunday:  reading the book "Python Deep Learning" (exploring deep learning techniques and neural network architectures   with PyTorch)
+  by Ivan Vasilev, Daniel Slater, Gianmario Spacagna, Peter Roelants, Valentino Zocca.
+  
+  I encourage @Reem Qais @Cristian Lazo Quispe @Brandon W @Eman @Nada Hammad @Ravikant Singh @Tesin Dosch @Ayush Yadav @Udit Singhania     @Ignacio Palos Reynoso @Christian I. Muñoz @Olivia Wais @Pablo Martínez @R Aishwarya @Fabian Schimpf @Dheemanth M D @Faiz Kidwai         @Felipe Damascena @Gabriel Giro Resende @Hafsa Sam @Jade Mays @Hadeel Alabandi @K3NNi @kumarklc to keep constant thirst for new         knowledge.
+  
+  Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563745328450600
 
 
-- Day 25, July 22, Monday:                                                                                                         Getting comfortable coding and making predictions with a basic PyTorch Linear Model. 
-Link to Colab Jupyter Notebook:
-https://colab.research.google.com/drive/19QYWp_lExrN65b6OesWS9NNA7x0fHKmq#scrollTo=KOl9mFXs7ja8----
-Link to GitHUb repo Jupyter Notebook: 
-https://github.com/reallygooday/60daysofudacity/blob/master/Day25_Linear_Model.ipynb
-I encourage to succeed the following talented students @hamzzy @Nabilah Hannani @R Aishwarya @birozso @Pablo @Naveen Tadala @Vaibhav @Claudia Hill @Xenofon Karamanos @zilu.
+- ***Day 25, July 22, Monday***:                                                                                                                 Getting comfortable coding and making predictions with a basic PyTorch Linear Model. 
 
-- Day 26, July 23, Tuesday:  
+  #Link to Colab Jupyter Notebook:
+  https://colab.research.google.com/drive/19QYWp_lExrN65b6OesWS9NNA7x0fHKmq#scrollTo=KOl9mFXs7ja8----
+  
+  ##Link to GitHUb repo Jupyter Notebook: 
+  https://github.com/reallygooday/60daysofudacity/blob/master/Day25_Linear_Model.ipynb
+  
+  I encourage to succeed the following talented students @hamzzy @Nabilah Hannani @R Aishwarya @birozso @Pablo @Naveen Tadala @Vaibhav     @Claudia Hill @Xenofon Karamanos @zilu.
+
+- ***Day 26, July 23, Tuesday***:  
 
   Link to GitHub Jupyter Notebook: https://github.com/reallygooday/60daysofudacity/blob/master/Day26_July22_Linear_Regression.ipynb  
 
@@ -66,6 +71,31 @@ I encourage to succeed the following talented students @hamzzy @Nabilah Hannani 
 
 
 - Day 27, July 24, Wednesday:  
+
+
+- Day 28, July 25, Thursday:  
+
+
+- Day 29, July 26, Friday:  
+
+
+- Day 30, July 27, Saturday:  
+
+
+- Day 31, July 28, Sunday:  
+
+
+- Day 32, July 29, Monday:  
+
+
+- Day 33, July 30, Tuesday:  
+
+
+- Day 34, July 31, Wednesday:  
+
+
+
+
 
 
 
