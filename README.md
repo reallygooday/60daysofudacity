@@ -67,7 +67,7 @@ Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p15636593042477
     https://github.com/reallygooday/60daysofudacity/blob/master/Day25_Linear_Model.ipynb
   
     Encouragements: I encourage to succeed the following talented students @hamzzy @Nabilah Hannani @R Aishwarya @birozso @Pablo @Naveen     Tadala @Vaibhav     @Claudia Hill @Xenofon Karamanos @zilu.
-
+____
 - **Day 26, July 23, Tuesday**:  
     Trained a linear model to fit training data using gradient descent. 
     
@@ -76,7 +76,8 @@ Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p15636593042477
     Link to Colab Jupyter Notebook:  https://colab.research.google.com/drive/19QYWp_lExrN65b6OesWS9NNA7x0fHKmq#scrollTo=0-bLHYJDxUzn
     
     Encouragements to @Saleeta Qadir and @waleed hassan.
-
+![alt text](/image/lr.png)
+____
 
 - **Day 27, July 24, Wednesday**:  
 
