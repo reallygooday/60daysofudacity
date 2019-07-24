@@ -134,7 +134,7 @@ ____
 - **Day 27, July 24, Wednesday**:  
 
 
-    :heavy_check_mark: reading book "Python Data Science Essentials " by Alberto Boschetti and Luca Massaron;
+    :heavy_check_mark: started reading book "Python Data Science Essentials " by Alberto Boschetti and Luca Massaron;
     
     :heavy_check_mark:GitHub repo: https://github.com/reallygooday/60daysofudacity;
     
@@ -146,8 +146,14 @@ ____
       
 ____
 
+- **Day 28, July 25, Thursday**: 
 
-- **Day 28, July 25, Thursday**:  
+    :heavy_check_mark:GitHub repo: https://github.com/reallygooday/60daysofudacity;
+
+     https://github.com/reallygooday/60daysofudacity/blob/master/README.md
+
+
+
 ____
 
 - **Day 29, July 26, Friday**:  
