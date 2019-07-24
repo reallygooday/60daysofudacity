@@ -132,7 +132,20 @@ ____
 ____
 
 - **Day 27, July 24, Wednesday**:  
+
+
+    :heavy_check_mark: reading book "Python Data Science Essentials " by Alberto Boschetti and Luca Massaron;
+    
+    :heavy_check_mark:GitHub repo: https://github.com/reallygooday/60daysofudacity;
+    
+    :heavy_check_mark: I would like to encourage awesome people @Sankalp Dayal @Evi @Archit @Berenice @Maria Medina @Nabilah Hannani   @Brendan Odigwe @AaronStone @Christine Rehm @Biswajit Banerjee @qayyumb to have audacious goals. :bettertogether:
+    
+     Link to the Slack post:   https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564009106372700   
+     
+     ![alt text](/image/es.png) 
+      
 ____
+
 
 - **Day 28, July 25, Thursday**:  
 ____
