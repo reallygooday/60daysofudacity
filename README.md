@@ -73,13 +73,13 @@ ____
 - **Day 21, July 18, Thursday**: attended/ watched the AWS Innovate Conference online about PyTorch inference with Amazon SageMaker.
 
     Link to the presentation file: https://github.com/reallygooday/60daysofudacity/blob/master/PyTorch_Opensource%2BML%2Bframeworks%2Bon%2BAmazon%2BSageMaker.pdf
-    
-    
+      
     
     ![alt text](/image/sagemaker.png)
     
-    
-    ![alt text](/image/in.png)                                                                                                        ____
+    <img align="right" width="400" height="200" src="/image/in.png">   
+
+____
 
 - **Day 22, July 19, Friday**: Read the book "Deep Learning with PyTorch" by Vishu Subramanian.
 
