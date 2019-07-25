@@ -158,6 +158,8 @@ ____
     
     :heavy_check_mark: Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564095577204600
     
+     ![alt text](/image/d.png)
+     
 ____
 
 - **Day 29, July 26, Friday**:  
