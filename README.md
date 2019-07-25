@@ -152,12 +152,10 @@ ____
 
 - **Day 28, July 25, Thursday**: 
 
-    :heavy_check_mark:GitHub repo: https://github.com/reallygooday/60daysofudacity;
-
-     https://github.com/reallygooday/60daysofudacity/blob/master/README.md
-
-
-
+    :heavy_check_mark:getting comfortable building a basic image classification;    
+    :heavy_check_mark:GitHub Jupyter Notebook: https://github.com/reallygooday/60daysofudacity/blob/master/Basic_Image_Classifier.ipynb
+    :heavy_check_mark: Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564095577204600
+    
 ____
 
 - **Day 29, July 26, Friday**:  
