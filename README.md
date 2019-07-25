@@ -74,9 +74,12 @@ ____
 
     Link to the presentation file: https://github.com/reallygooday/60daysofudacity/blob/master/PyTorch_Opensource%2BML%2Bframeworks%2Bon%2BAmazon%2BSageMaker.pdf
     
+    
+    
     ![alt text](/image/sagemaker.png)
-
-____
+    
+    
+    ![alt text](/image/in.png)                                                                                                        ____
 
 - **Day 22, July 19, Friday**: Read the book "Deep Learning with PyTorch" by Vishu Subramanian.
 
