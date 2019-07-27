@@ -163,7 +163,12 @@ ____
 ____
 
 - **Day 29, July 26, Friday**:  
-____
+
+    :heavy_check_mark: read 'article'  **“How to Use Deep Learning to Write Shakespeare”** https://opendatascience.com/how-to-use-deep-learning-to-write-shakespeare/;
+     
+    :heavy_check_mark: read ''book'' **"Python Data Science Handbook" by Jake Vander Plas**  https://jakevdp.github.io/PythonDataScienceHandbook/.
+
+    - Link to the '''Slack''' post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564182392005300____
 
 - **Day 30, July 27, Saturday**:  
 ____
