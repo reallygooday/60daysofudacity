@@ -10,6 +10,68 @@ ____
 ____
 
 ![alt text](/image/l.png)
+
+____
+____
+____
+
+- **Day 1, June 28th, Friday**: 
+   - 
+   -
+   -
+____
+
+- **Day 2, June 29th, Saturday**: 
+   - 
+   -
+   -
+____
+
+- **Day 3, June 30th, Sunday**: 
+   - 
+   -
+   -
+____
+
+- **Day 4, July 1th, Monday**: 
+   - 
+   -
+   -
+____
+
+- **Day 5, July 2th, Tuesday**: 
+   - 
+   -
+   -
+
+____
+
+- **Day 6, July 3th, Wednesday**: 
+   - 
+   -
+   -
+
+____
+
+- **Day 7, July 4th, Thursday**: 
+   - 
+   -
+   -
+
+____
+
+- **Day 8, July 5th, Friday**: 
+   - 
+   -
+   -
+
+____
+
+- **Day 9, July 6th, Saturday**: 
+   - 
+   -
+   -
+
 ____
 
 - **Day 10, July 7th, Sunday**: 
