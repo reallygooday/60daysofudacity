@@ -258,12 +258,21 @@ ____
 
 - **Day 30, July 27, Saturday**:  
 
-   -
-   -
-   -
-   -
-____
-
+   - Experimented with **Style Transfer**, stylised photos with neural networks using PyTorch.
+   
+   - I would like to encourage @Nabilah Hannani @Elif Yalı @qayyumb @AaronStone @Reem Qais @Ayush Yadav to stay bold and Udacious !
+   
+   - Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564256061078300  
+   
+   - Link to Github repo: https://github.com/reallygooday/60daysofudacity/blob/master/Leonardo_di_ser_Piero_da_Vinci.ipynb    
+   
+                          https://github.com/reallygooday/60daysofudacity/blob/master/Claude_Monet.ipynb   
+   
+   
+     ![alt text](/image/lv.png)
+     
+     ![alt text](/image/monet.png)
+____     
 - **Day 31, July 28, Sunday**: 
    -
    -
