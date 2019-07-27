@@ -97,48 +97,48 @@ ____
      ![alt text](/image/fabio.png)
 ____
 
-- **Day 24, July 21, Sunday**:  reading the book "Python Deep Learning" (exploring deep learning techniques and neural network architectures   with PyTorch)
-    by Ivan Vasilev, Daniel Slater, Gianmario Spacagna, Peter Roelants, Valentino Zocca.
+- **Day 24, July 21, Sunday**:  
+    - reading the book **"Python Deep Learning" (exploring deep learning techniques and neural network architectures   with PyTorch)
+    by Ivan Vasilev, Daniel Slater, Gianmario Spacagna, Peter Roelants, Valentino Zocca**.
   
-   I encourage @Reem Qais @Cristian Lazo Quispe @Brandon W @Eman @Nada Hammad @Ravikant Singh @Tesin Dosch @Ayush Yadav @Udit Singhania     @Ignacio Palos Reynoso @Christian I. Muñoz @Olivia Wais @Pablo Martínez @R Aishwarya @Fabian Schimpf @Dheemanth M D @Faiz Kidwai         @Felipe Damascena @Gabriel Giro Resende @Hafsa Sam @Jade Mays @Hadeel Alabandi @K3NNi @kumarklc to keep constant thirst for new         knowledge.
+    - I encourage @Reem Qais @Cristian Lazo Quispe @Brandon W @Eman @Nada Hammad @Ravikant Singh @Tesin Dosch @Ayush Yadav @Udit Singhania @Ignacio Palos Reynoso @Christian I. Muñoz @Olivia Wais @Pablo Martínez @R Aishwarya @Fabian Schimpf @Dheemanth M D @Faiz Kidwai @Felipe Damascena @Gabriel Giro Resende @Hafsa Sam @Jade Mays @Hadeel Alabandi @K3NNi @kumarklc to keep constant thirst for new knowledge.
   
-   Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563745328450600
+    - Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563745328450600
    
    
     ![alt text](/image/pdl.png) 
  
  ____
 
-- **Day 25, July 22, Monday**:                                                                                                                 Getting comfortable coding and making predictions with a basic PyTorch Linear Model. 
+- **Day 25, July 22, Monday**:     
+    - Getting comfortable coding and making predictions with a basic PyTorch Linear Model. 
 
-    Link to Colab Jupyter Notebook:
+    - Link to Colab Jupyter Notebook:
     https://colab.research.google.com/drive/19QYWp_lExrN65b6OesWS9NNA7x0fHKmq#scrollTo=KOl9mFXs7ja8----
   
-    Link to GitHUb repo Jupyter Notebook: 
+    - Link to GitHUb repo Jupyter Notebook: 
     https://github.com/reallygooday/60daysofudacity/blob/master/Day25_Linear_Model.ipynb
   
-    Encouragements: I encourage to succeed the following talented students @hamzzy @Nabilah Hannani @R Aishwarya @birozso @Pablo @Naveen     Tadala @Vaibhav     @Claudia Hill @Xenofon Karamanos @zilu.
+    - Encouragements: I encourage to succeed the following talented students @hamzzy @Nabilah Hannani @R Aishwarya @birozso @Pablo @Naveen     Tadala @Vaibhav     @Claudia Hill @Xenofon Karamanos @zilu.
     
-    Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563809544107500    
+    - Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563809544107500    
 ____
 - **Day 26, July 23, Tuesday**:  
-    Trained a linear model to fit training data using gradient descent. 
+    - Trained a linear model to fit training data using gradient descent. 
     
-    Link to GitHub Jupyter Notebook: https://github.com/reallygooday/60daysofudacity/blob/master/Day26_July22_Linear_Regression.ipynb  
-
-    Link to Colab Jupyter Notebook:  https://colab.research.google.com/drive/19QYWp_lExrN65b6OesWS9NNA7x0fHKmq#scrollTo=0-bLHYJDxUzn
+    - Link to GitHub Jupyter Notebook: https://github.com/reallygooday/60daysofudacity/blob/master/Day26_July22_Linear_Regression.ipynb  
+    - Link to Colab Jupyter Notebook:  https://colab.research.google.com/drive/19QYWp_lExrN65b6OesWS9NNA7x0fHKmq#scrollTo=0-bLHYJDxUzn
     
-    Encouragements to @Saleeta Qadir and @waleed hassan.
+    - Encouragements to @Saleeta Qadir and @waleed hassan.
     
-    Link to the Slack post:https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563875855292000?thread_ts=1563875855.292000    
+    - Link to the Slack post:https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563875855292000?thread_ts=1563875855.292000    
     
     ![alt text](/image/lr.png)
 ____
 
 - **Day 27, July 24, Wednesday**:  
 
-
-    :heavy_check_mark: started reading book "Python Data Science Essentials " by Alberto Boschetti and Luca Massaron;
+    :heavy_check_mark: started reading book **"Python Data Science Essentials " by Alberto Boschetti and Luca Massaron**;
     
     :heavy_check_mark:GitHub repo: https://github.com/reallygooday/60daysofudacity;
     
@@ -164,37 +164,58 @@ ____
 
 - **Day 29, July 26, Friday**:  
 
-    :heavy_check_mark: read 'article'  **“How to Use Deep Learning to Write Shakespeare”** https://opendatascience.com/how-to-use-deep-learning-to-write-shakespeare/;
+    - read article **“How to Use Deep Learning to Write Shakespeare”** https://opendatascience.com/how-to-use-deep-learning-to-write-shakespeare/;
      
-    :heavy_check_mark: read ''book'' **"Python Data Science Handbook" by Jake Vander Plas**  https://jakevdp.github.io/PythonDataScienceHandbook/.
+    - read book **"Python Data Science Handbook" by Jake Vander Plas**  https://jakevdp.github.io/PythonDataScienceHandbook/.
 
-    - Link to the '''Slack''' post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564182392005300____
+    - Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564182392005300
+____
 
 - **Day 30, July 27, Saturday**:  
+
+   -
+   -
+   -
 ____
 
-- **Day 31, July 28, Sunday**:  
+- **Day 31, July 28, Sunday**: 
+   -
+   -
+   -
 ____
 
-- **Day 32, July 29, Monday**:  
+- **Day 32, July 29, Monday**: 
+   -
+   -
 ____
 
 - **Day 33, July 30, Tuesday**:  
+   -
+   -
 ____
 
 - **Day 34, July 31, Wednesday**:  
+   -
+   -
 ___
 
 - **Day 35, August 1, Thursday**:  
+   -
+   -
 ____
 
 - **Day 36, August 2, Friday**:  
+   -
+   -
 ____
 
 - **Day 37, August 3, Saturday**:  
+  -
+  -
 ____
 
 - **Day 38, August 4, Sunday**: 
+  -
 
 
 
