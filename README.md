@@ -174,7 +174,7 @@ _______
 ____
 
 - **Day 23, July 20, Saturday**: 
-    - Keep on reading the book "Python Data Analytics" Fabio Nelli.
+    - Keep on reading the book **"Python Data Analytics" Fabio Nelli**.
     - I encourage @Qazi Rameez Bin Naeem @Ahmad Waly @Eben O @Reem Qais @Tasmiyah Qazi @Elif Yalı@Ugesh S @hamzzy @Temitope Oladokun        @Pablo @R Aishwarya @Saleeta Qadir@Daibin Raju @Fabian Schimpf @Gaurav Yadav @Heather Allen @Jacqueline @hamzzy@Jeremiah Kamama @karthik s @Lakshya Mutneja @Cristina Zapata @Jia Xia @Christian I. Muñoz @Vaishnav Potlapalli @Bharat Bhushan Mishra @Nada Hammad   @Superuser@Udolf to share your learning adventure and progress.
     
     - Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563659304247700
