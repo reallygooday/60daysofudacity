@@ -264,11 +264,11 @@ ____
    
    - Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564256061078300  
    
-   - Link to Github repo: https://github.com/reallygooday/60daysofudacity/blob/master/Leonardo_di_ser_Piero_da_Vinci.ipynb    
-   
+   - Link to Github repo: 
+                          
                           https://github.com/reallygooday/60daysofudacity/blob/master/Claude_Monet.ipynb   
-   
-   
+                          https://github.com/reallygooday/60daysofudacity/blob/master/Leonardo_di_ser_Piero_da_Vinci.ipynb    
+      
      ![alt text](/image/lv.png)
      
      ![alt text](/image/monet.png)
