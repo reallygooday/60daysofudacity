@@ -285,15 +285,13 @@ ____
 ____
 
 - **Day :three::two:: July 29, Monday**: 
-
    - [x]
-   
    - [x]
-   -
-   -
+   - [x]
+   - [x]
 ____
 
-- **Day 33, July 30, Tuesday**:  
+- **Day :three::three:: July 30, Tuesday**:  
    -
    -
    -
