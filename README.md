@@ -279,14 +279,14 @@ ____
    
      '''
      
-     https://github.com/reallygooday/60daysofudacity/blob/master/Image_Classifier.ipynb   
+       - https://github.com/reallygooday/60daysofudacity/blob/master/Image_Classifier.ipynb   
      
      '''
    - [x] Link to the Slack post :    
    
      '''
      
-     https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564353644124500 
+       - https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564353644124500 
      
      ...
      
@@ -295,9 +295,9 @@ ____
    
 ____
 
-- **Day 32, July 29, Monday**: 
-   -
-   -
+- **Day :three::two:: July 29, Monday**: 
+   -[x]
+   [x]
    -
    -
 ____
