@@ -276,28 +276,19 @@ ____
 - **Day :three::one:: July 28, Sunday**: 
    - [x] Experimented with Image Classifier.
    - [x] Link to Github Jupyter Notebook: Image Classifier : 
-   
-     '''
-     
-       - https://github.com/reallygooday/60daysofudacity/blob/master/Image_Classifier.ipynb   
-     
-     '''
+     - https://github.com/reallygooday/60daysofudacity/blob/master/Image_Classifier.ipynb   
    - [x] Link to the Slack post :    
-   
-     '''
-     
-       - https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564353644124500 
-     
-     ...
-     
-     
-   ![alt text](/image/ic.png)
+     - https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564353644124500 
+  
+    ![alt text](/image/ic.png)
    
 ____
 
 - **Day :three::two:: July 29, Monday**: 
-   -[x]
-   [x]
+
+   - [x]
+   
+   - [x]
    -
    -
 ____
