@@ -299,10 +299,13 @@ https://machinetalk.org/2019/02/08/text-generation-with-pytorch/
 ____
 
 - **Day :three::three:: July 30, Tuesday**:  
-   -
-   -
-   -
-   -
+
+   - [x] Experimented building Story Generation with PyTorch using the story "A Clean, Well-Lighted Place" by Earnest Hemingway.    
+   - [x] Revising Introduction to Deep Learning Lesson 7 "Character-Level LSTM".
+   - [x] Link to Slack post:
+   - [x] Link to Github repo: https://github.com/reallygooday/60daysofudacity/blob/master/Hemingway.ipynb   
+   ![alt text](/image/hemingway.png)  
+   
 ____
 
 - **Day 34, July 31, Wednesday**:  
