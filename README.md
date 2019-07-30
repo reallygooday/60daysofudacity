@@ -306,6 +306,8 @@ ____
    
    - [x] Link to Slack post:
    
+                    - https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564513286344500  
+                    
    - [x] Link to Github repo:
    
                     - https://github.com/reallygooday/60daysofudacity/blob/master/Hemingway.ipynb   
