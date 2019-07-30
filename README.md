@@ -311,10 +311,9 @@ ____
    - [x] Link to Github repo:
    
                     - https://github.com/reallygooday/60daysofudacity/blob/master/Hemingway.ipynb   
+  
    
-   ![alt text](/image/hem.png)  
-   
-____
+__
 
 - **Day 34, July 31, Wednesday**:  
    -
