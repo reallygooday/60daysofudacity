@@ -285,10 +285,16 @@ ____
 ____
 
 - **Day :three::two:: July 29, Monday**: 
-   - [x]
-   - [x]
-   - [x]
-   - [x]
+
+   - [x] Experimented building Text Generation with PyTorch using the book "Oliver Twist" by Charles Dickens.   
+   
+   - [x] Link to the book: http://www.gutenberg.org/cache/epub/730/pg730.txt.
+   
+   - [x] Link to the tutorial:
+https://machinetalk.org/2019/02/08/text-generation-with-pytorch/
+
+   - [x] Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564414980191500
+   
 ____
 
 - **Day :three::three:: July 30, Tuesday**:  
