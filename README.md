@@ -295,6 +295,7 @@ https://machinetalk.org/2019/02/08/text-generation-with-pytorch/
 
    - [x] Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564414980191500
    
+      ![alt text](/image/oliver.png)   
 ____
 
 - **Day :three::three:: July 30, Tuesday**:  
