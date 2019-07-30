@@ -310,8 +310,7 @@ ____
    
                     - https://github.com/reallygooday/60daysofudacity/blob/master/Hemingway.ipynb   
    
-   
-         ![alt text](/image/hemingway.png)  
+   ![alt text](/image/hemingway.png)  
    
 ____
 
