@@ -302,7 +302,7 @@ ____
 
    - [x] Experimented building Story Generator with PyTorch using the story "A Clean, Well-Lighted Place" by Earnest Hemingway.  
    
-   - [x] Revising Introduction to Deep Learning Lesson 7 "Character-Level LSTM".
+   - [x] Revised Introduction to Deep Learning Lesson 7 "Character-Level RNN, text prediction with an LSTM".
    
    - [x] Link to Slack post:
    
