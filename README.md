@@ -313,12 +313,25 @@ ____
                     - https://github.com/reallygooday/60daysofudacity/blob/master/Hemingway.ipynb   
   
    
-__
+____
 
-- **Day 34, July 31, Wednesday**:  
-   -
-   -
-   -
+- **Day :three::four:: July 31, Wednesday**:  
+
+   - [x]  Restyled images with Neural Network using personal photos as content.     
+   - [x]  Submitted the restyled images for Project T-Shirt.
+   - [x]  I would like to encourage @Elif Yalı @Saleeta Qadir @waleed hassan @Elif Yalı @Rabin Banjade @Tasmiyah Qazi @Y. Leonce Eyog @Udolf @Idan Benaun @Olivia Wais @Pablo Martínez @Udolf @Saleeta Qadir @Daibin Raju @Faiz Kidwai @Faiz Kidwai @Gabor Soter @hamzzy @Jade Mays @Jeremiah Kamama @Luis Bronchal. Happy Pytorching ! :pytorch:   
+   
+   - [x] Link to Slack posts:
+   
+                    - https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564589848270300                    
+                    - https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564589676266500
+                    
+   - [x] Link to Facebook Project T-Shirt submission page:
+   
+                    - https://www.facebook.com/media/set/?set=oa.812067435861177&type=3         
+                    
+     ![alt text](/image/Project_T_Shirt.png)   
+           
 ___
 
 - **Day 35, August 1, Thursday**:  
