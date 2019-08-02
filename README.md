@@ -334,14 +334,18 @@ ____
            
 ___
 
-- **Day 35, August 1, Thursday**:  
-   -
-   -
-   -
-   -
+- **Day :three::five:: August 1, Thursday**: 
+
+   - [x] Started Cloud Qwiklabs and deeplearning.ai courses; I'm interested in Kubernetes in the Google Cloud.
+  
+   - [x] Link to Slack posts:  
+   
+                      - https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564698476117700   
+   
+   
 ____
 
-- **Day 36, August 2, Friday**:  
+- **Day :three::six:: August 2, Friday**:  
    -
    -
    -
