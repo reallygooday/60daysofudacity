@@ -15,7 +15,7 @@ ____
 ____
 ____
 
-- **Day :one:: 28th, Friday**: 
+- **Day :one: , June 28th, Friday**: 
    - [x] Prioritising & Planning:
         - Differential Privacy
         - Evaluating the Privacy of a Function
@@ -30,14 +30,14 @@ ____
           
 ____
 
-- **Day :two::, June 29th, Saturday**: 
+- **Day :two:, June 29th, Saturday**: 
    - [x]
    - [x]
    - [x]
    - [x]
 ____
 
-- **Day :three::, June 30th, Sunday**: 
+- **Day :three:, June 30th, Sunday**: 
    - [x]
    - [x]
    - [x]
