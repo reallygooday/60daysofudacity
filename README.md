@@ -33,9 +33,9 @@ ____
 
 - **Day :two: June 29th, Saturday**: 
    - [x] :smiley:   
-   - [x]
-   - [x]
-   - [x]
+   - [x] :smiley:    
+   - [x] :smiley:    
+   - [x] :smiley:
 ____
 
 - **Day :three: June 30th, Sunday**: 
@@ -53,7 +53,7 @@ ____
 ____
 
 - **Day :five: July 2th, Tuesday**: 
-   - [x]
+   - [x] :smiley:    
    - [x]
    - [x]
    - [x]
