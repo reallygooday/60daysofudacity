@@ -44,22 +44,14 @@ ____
    - [x]
 ____
 
-- **Day :four::, July 1th, Monday**: 
+- **Day :four:, July 1th, Monday**: 
    - [x]
    - [x]
    - [x]
    - [x]
 ____
 
-- **Day :five::, July 2th, Tuesday**: 
-   - [x]
-   - [x]
-   - [x]
-   - [x]
-
-____
-
-- **Day :six;;, July 3th, Wednesday**: 
+- **Day :five:, July 2th, Tuesday**: 
    - [x]
    - [x]
    - [x]
@@ -67,7 +59,7 @@ ____
 
 ____
 
-- **Day :seven::, July 4th, Thursday**: 
+- **Day :six:, July 3th, Wednesday**: 
    - [x]
    - [x]
    - [x]
@@ -75,7 +67,7 @@ ____
 
 ____
 
-- **Day :eigth::, July 5th, Friday**: 
+- **Day :seven:, July 4th, Thursday**: 
    - [x]
    - [x]
    - [x]
@@ -83,7 +75,7 @@ ____
 
 ____
 
-- **Day :nine::, July 6th, Saturday**: 
+- **Day :eight:, July 5th, Friday**: 
    - [x]
    - [x]
    - [x]
@@ -91,7 +83,15 @@ ____
 
 ____
 
-- **Day :ten::, July 7th, Sunday**: 
+- **Day :nine:, July 6th, Saturday**: 
+   - [x]
+   - [x]
+   - [x]
+   - [x]
+
+____
+
+- **Day :ten:, July 7th, Sunday**: 
     - Getting comfortable coding with tensors.
 
     - Link to GitHUb Jupyter Notebook:https://github.com/reallygooday/60daysofudacity/blob/master/intro_to_tensors.ipynb
@@ -99,7 +99,7 @@ ____
     - Link to Colab Jupyter Notebook: https://colab.research.google.com/drive/1Z2o5t8-yrwtu9LCRgcbxmCwTyaQOHx-s#scrollTo=hI7zQLnAf1Q3  
 ____
 
-- **Day :eleven::, July 8th, Monday**:  
+- **Day :eleven:, July 8th, Monday**:  
      - It took 1 hour to train a basic deep learning chatbot model on my laptop. Then I moved the model to Colaboratory (Colab, Google free Cloud service), adjusted settings, selected GPU as Hardware accelerator, mounted my Google Drive, downloaded the dataset (corpus) directly to Google Drive via Google Colab. It took a few minutes to run the whole model with Colab. Nothing gets me moving like a completed task.
      
       - Link to GitHub Jupyter Notebook: https://github.com/reallygooday/60daysofudacity/blob/master/chatbot.ipynb
@@ -109,7 +109,7 @@ ____
       
   ![alt text](/image/bot3.png)
 ____
-- **Day :twelve::, July 9th, Tuesday**: 
+- **Day :twelve:, July 9th, Tuesday**: 
     - Participated at study group virtual meeting, worked on chatbot, 
     - Started reading book **"PyTorch A Problem-Solution Approach" by Pradeepta Mishra**.
 
@@ -264,7 +264,7 @@ ____
     - Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564182392005300
 ____
 
-- **Day :three::zero:: July 27, Saturday**:  
+- **Day :three::zero: July 27, Saturday**:  
 
    - Experimented with **Style Transfer**, stylised photos with neural networks using PyTorch.
    
@@ -281,7 +281,7 @@ ____
      
      ![alt text](/image/monet.png)
 ____     
-- **Day :three::one:: July 28, Sunday**: 
+- **Day :three::one: July 28, Sunday**: 
    - [x] Experimented with Image Classifier.
    - [x] Link to Github Jupyter Notebook: Image Classifier : 
      - https://github.com/reallygooday/60daysofudacity/blob/master/Image_Classifier.ipynb   
@@ -292,7 +292,7 @@ ____
    
 ____
 
-- **Day :three::two:: July 29, Monday**: 
+- **Day :three::two: July 29, Monday**: 
 
    - [x] Experimented building Text Generation with PyTorch using the book "Oliver Twist" by Charles Dickens.   
    
@@ -306,7 +306,7 @@ https://machinetalk.org/2019/02/08/text-generation-with-pytorch/
       ![alt text](/image/oliver.png)   
 ____
 
-- **Day :three::three:: July 30, Tuesday**:  
+- **Day :three::three: July 30, Tuesday**:  
 
    - [x] Experimented building Story Generator with PyTorch using the story "A Clean, Well-Lighted Place" by Earnest Hemingway.  
    
@@ -323,7 +323,7 @@ ____
    
 ____
 
-- **Day :three::four:: July 31, Wednesday**:  
+- **Day :three::four: July 31, Wednesday**:  
 
    - [x]  Restyled images with Neural Network using personal photos as content.     
    - [x]  Submitted the restyled images for Project T-Shirt.
@@ -342,7 +342,7 @@ ____
            
 ___
 
-- **Day :three::five:: August 1, Thursday**: 
+- **Day :three::five: August 1, Thursday**: 
 
    - [x] Started Cloud Qwiklabs and deeplearning.ai courses; I'm interested in Kubernetes in the Google Cloud.
   
@@ -353,14 +353,14 @@ ___
    
 ____
 
-- **Day :three::six:: August 2, Friday**:  
+- **Day :three::six: August 2, Friday**:  
    - [x] Revised Differential Privacy Lessons, building a private database.   -
    - [x] Link to Slack post: 
                      - https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564779393239500        
            
 ____
   
-- **Day :three::seven:: August 3, Saturday**:  
+- **Day :three::seven: August 3, Saturday**:  
   - [x]
   - [x]
   - [x]
