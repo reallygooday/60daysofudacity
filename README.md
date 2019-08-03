@@ -15,7 +15,7 @@ ____
 ____
 ____
 
-- **Day :one, :one:: 28th, Friday**: 
+- **Day :one:: 28th, Friday**: 
    - [x] Prioritising & Planning:
         - Differential Privacy
         - Evaluating the Privacy of a Function
@@ -25,73 +25,73 @@ ____
         - Securing Federated Learning
         - Encrypted Deep Learning
    - [x] Coding
-   - [x]Link to GitHub repo: 
+   - [x] Link to GitHub repo: 
           https://github.com/reallygooday/60daysofudacity/blob/master/Differential_Privacy.ipynb
           
 ____
 
-- **Day ::two, June 29th, Saturday**: 
-   - 
-   -
-   -
-   -
+- **Day :two::, June 29th, Saturday**: 
+   - [x]
+   - [x]
+   - [x]
+   - [x]
 ____
 
-- **Day 3, June 30th, Sunday**: 
-   - 
-   -
-   -
-   -
+- **Day :three::, June 30th, Sunday**: 
+   - [x]
+   - [x]
+   - [x]
+   - [x]
 ____
 
-- **Day 4, July 1th, Monday**: 
-   - 
-   -
-   -
-   -
+- **Day :four::, July 1th, Monday**: 
+   - [x]
+   - [x]
+   - [x]
+   - [x]
 ____
 
-- **Day 5, July 2th, Tuesday**: 
-   - 
-   -
-   -
-   -
-
-____
-
-- **Day 6, July 3th, Wednesday**: 
-   - 
-   -
-   -
-   -
+- **Day :five::, July 2th, Tuesday**: 
+   - [x]
+   - [x]
+   - [x]
+   - [x]
 
 ____
 
-- **Day 7, July 4th, Thursday**: 
-   - 
-   -
-   -
-   -
+- **Day :six;;, July 3th, Wednesday**: 
+   - [x]
+   - [x]
+   - [x]
+   - [x]
 
 ____
 
-- **Day 8, July 5th, Friday**: 
-   - 
-   -
-   -
-   -
+- **Day :seven::, July 4th, Thursday**: 
+   - [x]
+   - [x]
+   - [x]
+   - [x]
 
 ____
 
-- **Day 9, July 6th, Saturday**: 
-   - 
-   -
-   -
-   -
+- **Day :eigth::, July 5th, Friday**: 
+   - [x]
+   - [x]
+   - [x]
+   - [x]
 
 ____
 
-- **Day 10, July 7th, Sunday**: 
+- **Day :nine::, July 6th, Saturday**: 
+   - [x]
+   - [x]
+   - [x]
+   - [x]
+
+____
+
+- **Day :ten::, July 7th, Sunday**: 
     - Getting comfortable coding with tensors.
 
     - Link to GitHUb Jupyter Notebook:https://github.com/reallygooday/60daysofudacity/blob/master/intro_to_tensors.ipynb
@@ -99,7 +99,7 @@ ____
     - Link to Colab Jupyter Notebook: https://colab.research.google.com/drive/1Z2o5t8-yrwtu9LCRgcbxmCwTyaQOHx-s#scrollTo=hI7zQLnAf1Q3  
 ____
 
-- **Day 11, July 8th, Monday**:  
+- **Day :eleven::, July 8th, Monday**:  
      - It took 1 hour to train a basic deep learning chatbot model on my laptop. Then I moved the model to Colaboratory (Colab, Google free Cloud service), adjusted settings, selected GPU as Hardware accelerator, mounted my Google Drive, downloaded the dataset (corpus) directly to Google Drive via Google Colab. It took a few minutes to run the whole model with Colab. Nothing gets me moving like a completed task.
      
       - Link to GitHub Jupyter Notebook: https://github.com/reallygooday/60daysofudacity/blob/master/chatbot.ipynb
@@ -109,7 +109,7 @@ ____
       
   ![alt text](/image/bot3.png)
 ____
-- **Day 12, July 9th, Tuesday**: 
+- **Day :twelve::, July 9th, Tuesday**: 
     - Participated at study group virtual meeting, worked on chatbot, 
     - Started reading book **"PyTorch A Problem-Solution Approach" by Pradeepta Mishra**.
 
@@ -354,16 +354,16 @@ ___
 ____
 
 - **Day :three::six:: August 2, Friday**:  
-   -
-   -
-   -
-   -
+   - [x] Revised Differential Privacy Lessons, building a private database.   -
+   - [x] Link to Slack post: 
+                     - https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564779393239500        
+           
 ____
-
-- **Day 37, August 3, Saturday**:  
-  -
-  -
-  -
+  
+- **Day :three::seven:: August 3, Saturday**:  
+  - [x]
+  - [x]
+  - [x]
   -
 ____
 
