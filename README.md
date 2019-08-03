@@ -414,10 +414,11 @@ ____
 ____
   
 - **Day :three::seven: August 3, Saturday**:  
-  - [x]
-  - [x]
-  - [x]
-  -
+  - [x]:blue_car: Started with AWS DeepRacer and the AWS platform training autonomous racer using reinforcement learning.  
+  - [x] Link to Slack post:
+  
+                      - https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564851898467400 
+  
 ____
 
 - **Day 38, August 4, Sunday**: 
