@@ -24,8 +24,8 @@ ____
         - Federated Learning
         - Securing Federated Learning
         - Encrypted Deep Learning
-   - [x] Coding
-   - [x] Link to GitHub repo: 
+   - [x] :smiley: Started from Differential Privacy and coded the examples.
+   - [x] :smiley: Link to GitHub repo: 
    
             https://github.com/reallygooday/60daysofudacity/blob/master/Differential_Privacy.ipynb
           
@@ -410,8 +410,8 @@ ____
 ____
   
 - **Day :three::seven: August 3, Saturday**:  
-  - :blue_car: Started with AWS DeepRacer and the AWS platform training autonomous racer using reinforcement learning.  
-  
+  - :blue_car: Started with AWS DeepRacer and the AWS platform training autonomous racer using reinforcement learning. 
+  - [x] Read the book “Differential Privacy and Applications” by Tianging Zhu, Gang Li, Wanlei Zhou, Philip S.Yu  
   - [x] Link to Slack post:
   
                       - https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564851898467400 
