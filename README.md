@@ -16,7 +16,7 @@ ____
 ____
 
 - **Day :one:  June 28th, Friday**: 
-   - [x] :udacity: Prioritising & Planning:
+   - [x]:smiley: Prioritising & Planning:
         - Differential Privacy
         - Evaluating the Privacy of a Function
         - Local and Global Differential Privacy
@@ -26,7 +26,8 @@ ____
         - Encrypted Deep Learning
    - [x] Coding
    - [x] Link to GitHub repo: 
-          https://github.com/reallygooday/60daysofudacity/blob/master/Differential_Privacy.ipynb
+   
+            https://github.com/reallygooday/60daysofudacity/blob/master/Differential_Privacy.ipynb
           
 ____
 
@@ -94,18 +95,26 @@ ____
 - **Day :one::zero: July 7th, Sunday**: 
     - Getting comfortable coding with tensors.
 
-    - Link to GitHUb Jupyter Notebook:https://github.com/reallygooday/60daysofudacity/blob/master/intro_to_tensors.ipynb
+    - Link to GitHUb Jupyter Notebook:
+    
+                  https://github.com/reallygooday/60daysofudacity/blob/master/intro_to_tensors.ipynb
 
-    - Link to Colab Jupyter Notebook: https://colab.research.google.com/drive/1Z2o5t8-yrwtu9LCRgcbxmCwTyaQOHx-s#scrollTo=hI7zQLnAf1Q3  
+    - Link to Colab Jupyter Notebook: 
+    
+                  https://colab.research.google.com/drive/1Z2o5t8-yrwtu9LCRgcbxmCwTyaQOHx-s#scrollTo=hI7zQLnAf1Q3  
+                  
 ____
 
 - **Day :one::one: July 8th, Monday**:  
      - It took 1 hour to train a basic deep learning chatbot model on my laptop. Then I moved the model to Colaboratory (Colab, Google free Cloud service), adjusted settings, selected GPU as Hardware accelerator, mounted my Google Drive, downloaded the dataset (corpus) directly to Google Drive via Google Colab. It took a few minutes to run the whole model with Colab. Nothing gets me moving like a completed task.
      
-      - Link to GitHub Jupyter Notebook: https://github.com/reallygooday/60daysofudacity/blob/master/chatbot.ipynb
+      - Link to GitHub Jupyter Notebook: 
+      
+                 https://github.com/reallygooday/60daysofudacity/blob/master/chatbot.ipynb
       
       - Link to Colab Jupyter Notebook: 
-      https://colab.research.google.com/drive/1XgymVaAdjrEuMWGxekqlMvtgkSBLZLIz#scrollTo=72Udiv_SZIzO
+      
+                 https://colab.research.google.com/drive/1XgymVaAdjrEuMWGxekqlMvtgkSBLZLIz#scrollTo=72Udiv_SZIzO
       
   ![alt text](/image/bot3.png)
 ____
@@ -141,7 +150,10 @@ ____
 - **Day 18, July 15, Monday**: 
     - Registered for **AWS Online Conference** on the 18th July to learn how to deploy a basic deep learning model on cloud; 
     - Encoraged @ Marcos Junior to take up challenge; 
-    - Continued working on Dog Breed Identification project on Kaggle (got stuck with Value Error) https://www.kaggle.com/reallygooday/dog-breed-identification-exploration
+    - Continued working on Dog Breed Identification project on Kaggle (got stuck with Value Error) 
+    - Link to the Kaggle kernel:            
+    
+          https://www.kaggle.com/reallygooday/dog-breed-identification-exploration
 
    ![alt text](/image/innovate.png)
 ____
@@ -165,7 +177,9 @@ _______
 - **Day 21, July 18, Thursday**: 
     - Attended/ watched **the AWS Innovate Conference** online to learn about PyTorch inference with Amazon SageMaker.
 
-    - Link to the presentation file: https://github.com/reallygooday/60daysofudacity/blob/master/PyTorch_Opensource%2BML%2Bframeworks%2Bon%2BAmazon%2BSageMaker.pdf
+    - Link to the presentation file: 
+    
+           https://github.com/reallygooday/60daysofudacity/blob/master/PyTorch_Opensource%2BML%2Bframeworks%2Bon%2BAmazon%2BSageMaker.pdf
      
     <img align="right" width="400" height="200" src="/image/in.png">   
       
@@ -176,7 +190,9 @@ _______
 - **Day 22, July 19, Friday**: 
     - Read the book **"Deep Learning with PyTorch" by Vishu Subramanian**.
 
-    - Link to Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563570031267300
+    - Link to Slack post: 
+    
+          https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563570031267300
     
     ![alt text](/image/vishnu2.png)   
 ____
@@ -185,7 +201,9 @@ ____
     - Keep on reading the book **"Python Data Analytics" Fabio Nelli**.
     - I encourage @Qazi Rameez Bin Naeem @Ahmad Waly @Eben O @Reem Qais @Tasmiyah Qazi @Elif Yalı@Ugesh S @hamzzy @Temitope Oladokun        @Pablo @R Aishwarya @Saleeta Qadir@Daibin Raju @Fabian Schimpf @Gaurav Yadav @Heather Allen @Jacqueline @hamzzy@Jeremiah Kamama @karthik s @Lakshya Mutneja @Cristina Zapata @Jia Xia @Christian I. Muñoz @Vaishnav Potlapalli @Bharat Bhushan Mishra @Nada Hammad   @Superuser@Udolf to share your learning adventure and progress.
     
-    - Link to Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563659304247700
+    - Link to Slack post: 
+    
+          https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563659304247700
     
      ![alt text](/image/fabio.png)
 ____
@@ -196,7 +214,9 @@ ____
   
     - I encourage @Reem Qais @Cristian Lazo Quispe @Brandon W @Eman @Nada Hammad @Ravikant Singh @Tesin Dosch @Ayush Yadav @Udit Singhania @Ignacio Palos Reynoso @Christian I. Muñoz @Olivia Wais @Pablo Martínez @R Aishwarya @Fabian Schimpf @Dheemanth M D @Faiz Kidwai @Felipe Damascena @Gabriel Giro Resende @Hafsa Sam @Jade Mays @Hadeel Alabandi @K3NNi @kumarklc to keep constant thirst for new knowledge.
   
-    - Link to Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563745328450600
+    - Link to Slack post: 
+    
+          https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563745328450600
    
    
     ![alt text](/image/pdl.png) 
@@ -207,24 +227,35 @@ ____
     - Getting comfortable coding and making predictions with a basic PyTorch Linear Model. 
 
     - Link to Colab Jupyter Notebook:
-    https://colab.research.google.com/drive/19QYWp_lExrN65b6OesWS9NNA7x0fHKmq#scrollTo=KOl9mFXs7ja8----
+    
+          https://colab.research.google.com/drive/19QYWp_lExrN65b6OesWS9NNA7x0fHKmq#scrollTo=KOl9mFXs7ja8----
   
     - Link to GitHUb repo Jupyter Notebook: 
-    https://github.com/reallygooday/60daysofudacity/blob/master/Day25_Linear_Model.ipynb
+    
+          https://github.com/reallygooday/60daysofudacity/blob/master/Day25_Linear_Model.ipynb
   
     - Encouragements: I encourage to succeed the following talented students @hamzzy @Nabilah Hannani @R Aishwarya @birozso @Pablo @Naveen Tadala @Vaibhav @Claudia Hill @Xenofon Karamanos @zilu.
     
-    - Link to Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563809544107500    
+    - Link to Slack post: 
+    
+          https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563809544107500    
 ____
 - **Day 26, July 23, Tuesday**:  
     - Trained a linear model to fit training data using gradient descent. 
     
-    - Link to GitHub Jupyter Notebook: https://github.com/reallygooday/60daysofudacity/blob/master/Day26_July22_Linear_Regression.ipynb  
-    - Link to Colab Jupyter Notebook:  https://colab.research.google.com/drive/19QYWp_lExrN65b6OesWS9NNA7x0fHKmq#scrollTo=0-bLHYJDxUzn
+    - Link to GitHub Jupyter Notebook: 
+    
+           https://github.com/reallygooday/60daysofudacity/blob/master/Day26_July22_Linear_Regression.ipynb  
+           
+    - Link to Colab Jupyter Notebook:  
+    
+           https://colab.research.google.com/drive/19QYWp_lExrN65b6OesWS9NNA7x0fHKmq#scrollTo=0-bLHYJDxUzn
     
     - Encouragements to @Saleeta Qadir and @waleed hassan.
     
-    - Link to Slack post:https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563875855292000?thread_ts=1563875855.292000    
+    - Link to Slack post:
+    
+           https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563875855292000?thread_ts=1563875855.292000    
     
     ![alt text](/image/lr.png)
 ____
@@ -233,11 +264,15 @@ ____
 
     :heavy_check_mark: Started reading book **"Python Data Science Essentials " by Alberto Boschetti and Luca Massaron**;
     
-    :heavy_check_mark:GitHub repo: https://github.com/reallygooday/60daysofudacity;
+    :heavy_check_mark:GitHub repo: 
+    
+          https://github.com/reallygooday/60daysofudacity;
     
     :heavy_check_mark: I would like to encourage awesome people @Sankalp Dayal @Evi @Archit @Berenice @Maria Medina @Nabilah Hannani   @Brendan Odigwe @AaronStone @Christine Rehm @Biswajit Banerjee @qayyumb to have audacious goals. :bettertogether:
     
-     Link to Slack post:   https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564009106372700   
+     Link to Slack post:   
+     
+          https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564009106372700   
      
      ![alt text](/image/es.png) 
       
@@ -247,9 +282,13 @@ ____
 
     :heavy_check_mark:Getting comfortable building a basic image classification;    
     
-    :heavy_check_mark:GitHub Jupyter Notebook: https://github.com/reallygooday/60daysofudacity/blob/master/Basic_Image_Classifier.ipynb
+    :heavy_check_mark:GitHub Jupyter Notebook: 
+            
+            https://github.com/reallygooday/60daysofudacity/blob/master/Basic_Image_Classifier.ipynb
     
-    :heavy_check_mark: Link to Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564095577204600
+    :heavy_check_mark: Link to Slack post: 
+    
+            https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564095577204600
     
      ![alt text](/image/d.png)
      
@@ -257,11 +296,17 @@ ____
 
 - **Day 29, July 26, Friday**:  
 
-    - Read article **“How to Use Deep Learning to Write Shakespeare”** https://opendatascience.com/how-to-use-deep-learning-to-write-shakespeare/;
+    - Read article **“How to Use Deep Learning to Write Shakespeare”** 
+    
+             https://opendatascience.com/how-to-use-deep-learning-to-write-shakespeare/;
      
-    - Read book **"Python Data Science Handbook" by Jake Vander Plas**  https://jakevdp.github.io/PythonDataScienceHandbook/.
+    - Read book **"Python Data Science Handbook" by Jake Vander Plas**  
+    
+             https://jakevdp.github.io/PythonDataScienceHandbook/.
 
-    - Link to Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564182392005300
+    - Link to Slack post: 
+    
+             https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564182392005300
 ____
 
 - **Day :three::zero: July 27, Saturday**:  
@@ -270,7 +315,9 @@ ____
    
    - I would like to encourage @Nabilah Hannani @Elif Yalı @qayyumb @AaronStone @Reem Qais @Ayush Yadav to stay bold and Udacious !
    
-   - Link to Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564256061078300  
+   - Link to Slack post: 
+   
+             https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564256061078300  
    
    - Link to Github repo: 
                           
@@ -294,23 +341,28 @@ ____
 
 - **Day :three::two: July 29, Monday**: 
 
-   - [x] Experimented building Text Generation with PyTorch using the book "Oliver Twist" by Charles Dickens.   
+   - [x] Experimented building **Text Generation** with PyTorch using the book "Oliver Twist" by Charles Dickens.   
    
-   - [x] Link to the book: http://www.gutenberg.org/cache/epub/730/pg730.txt.
+   - [x] Link to the book: 
+   
+                   http://www.gutenberg.org/cache/epub/730/pg730.txt.
    
    - [x] Link to the tutorial:
-https://machinetalk.org/2019/02/08/text-generation-with-pytorch/
+   
+                   https://machinetalk.org/2019/02/08/text-generation-with-pytorch/
 
-   - [x] Link to Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564414980191500
+   - [x] Link to Slack post: 
+   
+                   https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564414980191500
    
       ![alt text](/image/oliver.png)   
 ____
 
 - **Day :three::three: July 30, Tuesday**:  
 
-   - [x] Experimented building Story Generator with PyTorch using the story "A Clean, Well-Lighted Place" by Earnest Hemingway.  
+   - [x] Experimented building Story Generator with PyTorch using the story **"A Clean, Well-Lighted Place" by Earnest Hemingway**.  
    
-   - [x] Revised Introduction to Deep Learning Lesson 7 "Character-Level RNN, text prediction with an LSTM".
+   - [x] Revised Introduction to Deep Learning Lesson 7 **"Character-Level RNN, text prediction with an LSTM"**.
    
    - [x] Link to Slack post:
    
@@ -326,7 +378,7 @@ ____
 - **Day :three::four: July 31, Wednesday**:  
 
    - [x]  Restyled images with Neural Network using personal photos as content.     
-   - [x]  Submitted the restyled images for Project T-Shirt.
+   - [x]  Submitted the restyled images for **Project T-Shirt**.
    - [x]  I would like to encourage @Elif Yalı @Saleeta Qadir @waleed hassan @Elif Yalı @Rabin Banjade @Tasmiyah Qazi @Y. Leonce Eyog @Udolf @Idan Benaun @Olivia Wais @Pablo Martínez @Udolf @Saleeta Qadir @Daibin Raju @Faiz Kidwai @Faiz Kidwai @Gabor Soter @hamzzy @Jade Mays @Jeremiah Kamama @Luis Bronchal. Happy Pytorching ! :pytorch:   
    
    - [x] Link to Slack posts:
