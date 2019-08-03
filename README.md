@@ -411,11 +411,17 @@ ____
   
 - **Day :three::seven: August 3, Saturday**:  
   - :blue_car: Started with AWS DeepRacer and the AWS platform training autonomous racer using reinforcement learning. 
-  - [x] Read the book “Differential Privacy and Applications” by Tianging Zhu, Gang Li, Wanlei Zhou, Philip S.Yu  
+  - [x]  :books: Read the book “Differential Privacy and Applications” by Tianging Zhu, Gang Li, Wanlei Zhou, Philip S.Yu  
+  - [x]   I would like to encourage @Maria Medina @Nada Hammad @birozso @Vaishnav Potlapalli @Çağatay Onur Şengör @Xiaolei Zhang @Zain Sarwar @Lakshya Mutneja @Xenofon Karamanos @Jeremiah Kamama at all times, particularly in times of uncertainty, to try your absolute hardest to keep going forward learning about Private AI and to go 'all-in'. Wishing you loots of Deep Learning fun ! Happy times to you all !  
+  
   - [x] Link to Slack post:
   
+  
+                      - https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564864391377600 
+                      
                       - https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564851898467400 
                       
+    ![alt text](/image/zhu.png)                  
     ![alt text](/image/reward.png)  
 ____
 
