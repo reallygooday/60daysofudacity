@@ -16,7 +16,7 @@ ____
 ____
 
 - **Day :one:  June 28th, Friday**: 
-   - [x]:smiley: Prioritising & Planning:
+   - [x] :smiley: Prioritising & Planning:
         - Differential Privacy
         - Evaluating the Privacy of a Function
         - Local and Global Differential Privacy
@@ -32,21 +32,21 @@ ____
 ____
 
 - **Day :two: June 29th, Saturday**: 
-   - [x]
+   - [x] :smiley:   
    - [x]
    - [x]
    - [x]
 ____
 
 - **Day :three: June 30th, Sunday**: 
-   - [x]
+   - [x] :smiley:   
    - [x]
    - [x]
    - [x]
 ____
 
 - **Day :four: July 1th, Monday**: 
-   - [x]
+   - [x] :smiley:   
    - [x]
    - [x]
    - [x]
