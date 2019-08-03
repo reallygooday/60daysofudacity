@@ -16,7 +16,7 @@ ____
 ____
 
 - **Day :one:  June 28th, Friday**: 
-   - [x] Prioritising & Planning:
+   - [x] :udacity: Prioritising & Planning:
         - Differential Privacy
         - Evaluating the Privacy of a Function
         - Local and Global Differential Privacy
@@ -91,7 +91,7 @@ ____
 
 ____
 
-- **Day ::ten:: July 7th, Sunday**: 
+- **Day :one::zero: July 7th, Sunday**: 
     - Getting comfortable coding with tensors.
 
     - Link to GitHUb Jupyter Notebook:https://github.com/reallygooday/60daysofudacity/blob/master/intro_to_tensors.ipynb
@@ -99,7 +99,7 @@ ____
     - Link to Colab Jupyter Notebook: https://colab.research.google.com/drive/1Z2o5t8-yrwtu9LCRgcbxmCwTyaQOHx-s#scrollTo=hI7zQLnAf1Q3  
 ____
 
-- **Day ::eleven:: July 8th, Monday**:  
+- **Day :one::one: July 8th, Monday**:  
      - It took 1 hour to train a basic deep learning chatbot model on my laptop. Then I moved the model to Colaboratory (Colab, Google free Cloud service), adjusted settings, selected GPU as Hardware accelerator, mounted my Google Drive, downloaded the dataset (corpus) directly to Google Drive via Google Colab. It took a few minutes to run the whole model with Colab. Nothing gets me moving like a completed task.
      
       - Link to GitHub Jupyter Notebook: https://github.com/reallygooday/60daysofudacity/blob/master/chatbot.ipynb
@@ -109,7 +109,7 @@ ____
       
   ![alt text](/image/bot3.png)
 ____
-- **Day ::twelve:: July 9th, Tuesday**: 
+- **Day :one::two: July 9th, Tuesday**: 
     - Participated at study group virtual meeting, worked on chatbot, 
     - Started reading book **"PyTorch A Problem-Solution Approach" by Pradeepta Mishra**.
 
