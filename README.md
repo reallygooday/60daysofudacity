@@ -406,7 +406,7 @@ ___
 ____
 
 - **Day :three::six: August 2, Friday**:  
-   - [x] Revised Differential Privacy Lessons, building a private database.   -
+   - [x] Revised Differential Privacy Lessons, building a private database.   
    - [x] Link to Slack post: 
    
                       - https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564779393239500        
