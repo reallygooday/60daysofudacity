@@ -91,7 +91,7 @@ ____
 
 ____
 
-- **Day :ten: July 7th, Sunday**: 
+- **Day :ten:: July 7th, Sunday**: 
     - Getting comfortable coding with tensors.
 
     - Link to GitHUb Jupyter Notebook:https://github.com/reallygooday/60daysofudacity/blob/master/intro_to_tensors.ipynb
@@ -99,7 +99,7 @@ ____
     - Link to Colab Jupyter Notebook: https://colab.research.google.com/drive/1Z2o5t8-yrwtu9LCRgcbxmCwTyaQOHx-s#scrollTo=hI7zQLnAf1Q3  
 ____
 
-- **Day :eleven: July 8th, Monday**:  
+- **Day :eleven:: July 8th, Monday**:  
      - It took 1 hour to train a basic deep learning chatbot model on my laptop. Then I moved the model to Colaboratory (Colab, Google free Cloud service), adjusted settings, selected GPU as Hardware accelerator, mounted my Google Drive, downloaded the dataset (corpus) directly to Google Drive via Google Colab. It took a few minutes to run the whole model with Colab. Nothing gets me moving like a completed task.
      
       - Link to GitHub Jupyter Notebook: https://github.com/reallygooday/60daysofudacity/blob/master/chatbot.ipynb
@@ -109,7 +109,7 @@ ____
       
   ![alt text](/image/bot3.png)
 ____
-- **Day :twelve: July 9th, Tuesday**: 
+- **Day :twelve:: July 9th, Tuesday**: 
     - Participated at study group virtual meeting, worked on chatbot, 
     - Started reading book **"PyTorch A Problem-Solution Approach" by Pradeepta Mishra**.
 
@@ -176,7 +176,7 @@ _______
 - **Day 22, July 19, Friday**: 
     - Read the book **"Deep Learning with PyTorch" by Vishu Subramanian**.
 
-    - Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563570031267300
+    - Link to Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563570031267300
     
     ![alt text](/image/vishnu2.png)   
 ____
@@ -185,7 +185,7 @@ ____
     - Keep on reading the book **"Python Data Analytics" Fabio Nelli**.
     - I encourage @Qazi Rameez Bin Naeem @Ahmad Waly @Eben O @Reem Qais @Tasmiyah Qazi @Elif Yalı@Ugesh S @hamzzy @Temitope Oladokun        @Pablo @R Aishwarya @Saleeta Qadir@Daibin Raju @Fabian Schimpf @Gaurav Yadav @Heather Allen @Jacqueline @hamzzy@Jeremiah Kamama @karthik s @Lakshya Mutneja @Cristina Zapata @Jia Xia @Christian I. Muñoz @Vaishnav Potlapalli @Bharat Bhushan Mishra @Nada Hammad   @Superuser@Udolf to share your learning adventure and progress.
     
-    - Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563659304247700
+    - Link to Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563659304247700
     
      ![alt text](/image/fabio.png)
 ____
@@ -196,7 +196,7 @@ ____
   
     - I encourage @Reem Qais @Cristian Lazo Quispe @Brandon W @Eman @Nada Hammad @Ravikant Singh @Tesin Dosch @Ayush Yadav @Udit Singhania @Ignacio Palos Reynoso @Christian I. Muñoz @Olivia Wais @Pablo Martínez @R Aishwarya @Fabian Schimpf @Dheemanth M D @Faiz Kidwai @Felipe Damascena @Gabriel Giro Resende @Hafsa Sam @Jade Mays @Hadeel Alabandi @K3NNi @kumarklc to keep constant thirst for new knowledge.
   
-    - Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563745328450600
+    - Link to Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563745328450600
    
    
     ![alt text](/image/pdl.png) 
@@ -214,7 +214,7 @@ ____
   
     - Encouragements: I encourage to succeed the following talented students @hamzzy @Nabilah Hannani @R Aishwarya @birozso @Pablo @Naveen Tadala @Vaibhav @Claudia Hill @Xenofon Karamanos @zilu.
     
-    - Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563809544107500    
+    - Link to Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563809544107500    
 ____
 - **Day 26, July 23, Tuesday**:  
     - Trained a linear model to fit training data using gradient descent. 
@@ -224,7 +224,7 @@ ____
     
     - Encouragements to @Saleeta Qadir and @waleed hassan.
     
-    - Link to the Slack post:https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563875855292000?thread_ts=1563875855.292000    
+    - Link to Slack post:https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563875855292000?thread_ts=1563875855.292000    
     
     ![alt text](/image/lr.png)
 ____
@@ -237,7 +237,7 @@ ____
     
     :heavy_check_mark: I would like to encourage awesome people @Sankalp Dayal @Evi @Archit @Berenice @Maria Medina @Nabilah Hannani   @Brendan Odigwe @AaronStone @Christine Rehm @Biswajit Banerjee @qayyumb to have audacious goals. :bettertogether:
     
-     Link to the Slack post:   https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564009106372700   
+     Link to Slack post:   https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564009106372700   
      
      ![alt text](/image/es.png) 
       
@@ -249,7 +249,7 @@ ____
     
     :heavy_check_mark:GitHub Jupyter Notebook: https://github.com/reallygooday/60daysofudacity/blob/master/Basic_Image_Classifier.ipynb
     
-    :heavy_check_mark: Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564095577204600
+    :heavy_check_mark: Link to Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564095577204600
     
      ![alt text](/image/d.png)
      
@@ -261,7 +261,7 @@ ____
      
     - Read book **"Python Data Science Handbook" by Jake Vander Plas**  https://jakevdp.github.io/PythonDataScienceHandbook/.
 
-    - Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564182392005300
+    - Link to Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564182392005300
 ____
 
 - **Day :three::zero: July 27, Saturday**:  
@@ -270,7 +270,7 @@ ____
    
    - I would like to encourage @Nabilah Hannani @Elif Yalı @qayyumb @AaronStone @Reem Qais @Ayush Yadav to stay bold and Udacious !
    
-   - Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564256061078300  
+   - Link to Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564256061078300  
    
    - Link to Github repo: 
                           
@@ -285,7 +285,7 @@ ____
    - [x] Experimented with Image Classifier.
    - [x] Link to Github Jupyter Notebook: Image Classifier : 
      - https://github.com/reallygooday/60daysofudacity/blob/master/Image_Classifier.ipynb   
-   - [x] Link to the Slack post :    
+   - [x] Link to Slack post :    
      - https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564353644124500 
   
     ![alt text](/image/ic.png)
@@ -301,7 +301,7 @@ ____
    - [x] Link to the tutorial:
 https://machinetalk.org/2019/02/08/text-generation-with-pytorch/
 
-   - [x] Link to the Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564414980191500
+   - [x] Link to Slack post: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564414980191500
    
       ![alt text](/image/oliver.png)   
 ____
