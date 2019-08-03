@@ -40,56 +40,52 @@ ____
 
 - **Day :three: June 30th, Sunday**: 
    - [x] :smiley:   
-   - [x]
-   - [x]
-   - [x]
-____
+   - [x] :smiley:   
+   - [x] :smiley:   
+   - [x] :smiley:
+ ____
 
 - **Day :four: July 1th, Monday**: 
    - [x] :smiley:   
-   - [x]
-   - [x]
-   - [x]
-____
+   - [x] :smiley:   
+   - [x] :smiley:   
+   - [x] :smiley:
+ ____
 
 - **Day :five: July 2th, Tuesday**: 
    - [x] :smiley:    
-   - [x]
-   - [x]
-   - [x]
-
+   - [x] :smiley:   
+   - [x] :smiley:   
+   - [x] :smiley:
 ____
 
 - **Day :six: July 3th, Wednesday**: 
-   - [x]
-   - [x]
-   - [x]
-   - [x]
-
+   - [x] :smiley:    
+   - [x] :smiley:   
+   - [x] :smiley:   
+   - [x] :smiley:
 ____
 
 - **Day :seven: July 4th, Thursday**: 
-   - [x]
-   - [x]
-   - [x]
-   - [x]
-
+   - [x] :smiley:    
+   - [x] :smiley:   
+   - [x] :smiley:   
+   - [x] :smiley:
 ____
 
 - **Day :eight: July 5th, Friday**: 
-   - [x]
-   - [x]
-   - [x]
-   - [x]
-
+  
+   - [x] :smiley:    
+   - [x] :smiley:   
+   - [x] :smiley:   
+   - [x] :smiley:
 ____
 
 - **Day :nine: July 6th, Saturday**: 
-   - [x]
-   - [x]
-   - [x]
-   - [x]
-
+   - [x] :smiley:    
+   - [x] :smiley:   
+   - [x] :smiley:   
+   - [x] :smiley:
 ____
 
 - **Day :one::zero: July 7th, Sunday**: 
@@ -420,7 +416,7 @@ ____
   
                       - https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564851898467400 
                       
-    ![alt text](/image/Reward.png)  
+    ![alt text](/image/reward.png)  
 ____
 
 - **Day 38, August 4, Sunday**: 
