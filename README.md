@@ -15,12 +15,19 @@ ____
 ____
 ____
 
-- **Day 1, June 28th, Friday**: 
-   - 
-   -
-   -
-   -
-____
+- **Day :one, June 28th, Friday**: 
+   - [x] Prioritising & Planning:
+        - Differential Privacy
+        - Evaluating the Privacy of a Function
+        - Local and Global Differential Privacy
+        - Differential Privacy for Deep Learning
+        - Federated Learning
+        - Securing Federated Learning
+        - Encrypted Deep Learning
+   - [x] Coding
+         Link to GitHub repo: 
+   
+          https://github.com/reallygooday/60daysofudacity/blob/master/Differential_Privacy.ipynb____
 
 - **Day 2, June 29th, Saturday**: 
    - 
