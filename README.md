@@ -42,10 +42,14 @@ ____
 ____
 
 - **Day :three: June 30th, Sunday**: 
-   - [x] :smiley:   
-   - [x] :smiley:   
-   - [x] :smiley:   
-   - [x] :smiley:
+   - [x] :smiley:   doing the programming exercises;
+   - [x] :smiley:   learning about vectorization, re-writting explicit 'for' loops;
+   - [x] :smiley:   non-vectorize, looped code takes much longer than vectorize code;
+   - [x] :smiley:   read the article **'Why you should forget ‘for-loop’ for data science code and embrace vectorization'**
+   - [x] :smiley:   link to the article:
+   
+                    https://towardsdatascience.com/why-you-should-forget-for-loop-for-data-science-code-and-embrace-vectorization-696632622d5f   
+    - [x] :smiley:   The Thing To Remember: Vectorize Your Code to speed up, to get results faster !
  ____
 
 - **Day :four: July 1th, Monday**: 
