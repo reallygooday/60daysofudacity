@@ -16,7 +16,7 @@ ____
 ____
 
 - **Day :one:  June 28th, Friday**: 
-   - [x] :smiley: Prioritising & Planning, 
+   - [x] :smiley: Prioritising & Planning (I'm Super Excited, Let's Get Started)
         Secure and Private AI Challenge content summary:
         - Differential Privacy
         - Evaluating the Privacy of a Function
