@@ -15,8 +15,11 @@ ____
 ____
 ____
 
+## ***I'm Super Excited, Let's Get Started***
+
 - **Day :one:  June 28th, Friday**: 
-   - [x] :smiley: Prioritising & Planning (I'm Super Excited, Let's Get Started)
+   - [x] :smiley: Prioritising & Planning 
+
         Secure and Private AI Challenge content summary:
         - Differential Privacy
         - Evaluating the Privacy of a Function
@@ -25,6 +28,7 @@ ____
         - Federated Learning
         - Securing Federated Learning
         - Encrypted Deep Learning
+        
    - [x] :smiley: Started from Differential Privacy and coded the examples.
    - [x] :smiley: Link to GitHub repo: 
    
