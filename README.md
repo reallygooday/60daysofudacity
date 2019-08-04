@@ -58,10 +58,17 @@ ____
  ____
 
 - **Day :four: July 1th, Monday**: 
-   - [x] :smiley:   
-   - [x] :smiley:   
-   - [x] :smiley:   
-   - [x] :smiley:
+   - [x] :smiley:   read the article **'Broadcasting with PyTorch'**;
+   - [x] :smiley:   I allude briefly to the main points, Rules of Broadcasting -->
+        - Rule 0: Each tensor has at least one dimension(trivial)
+        - Rule 1: If the two arrays differ in their number of dimensions, the shape of the one with fewer dimensions is padded with ones on its leading (left) side.
+        - Rule 2: If the shape of the two arrays does not match in any dimension, the array with shape equal to 1 in that dimension is stretched to match the other shape.
+        - Rule 3: If in any dimension the sizes disagree and neither is equal to 1, an error is raised.   
+
+    - [x] :smiley:  link to the article: 
+   
+                     https://mc.ai/broadcasting-with-pytorch/   
+
  ____
 
 - **Day :five: July 2th, Tuesday**: 
