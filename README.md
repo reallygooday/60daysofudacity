@@ -31,11 +31,13 @@ ____
           
 ____
 
-- **Day :two: June 29th, Saturday**: 
-   - [x] :smiley:   
-   - [x] :smiley:    
-   - [x] :smiley:    
-   - [x] :smiley:
+- **Day :two: June 29th, Saturday**: Gaining intuitive understanding about the basics of Neural Networks:
+   - [x] :smiley:   First Takeaway --> the term 'Logistic Regression' represents a small Neural Network and learning algorithm for Binary Classification Problem;
+   - [x] :smiley:   Second Takeaway --> the Loss and Cost functions of Logistic Regression ( the loss function computes the error for a single training example,
+   the cost function is the average of the loss function of the entire training set);
+   - [x] :smiley:   Third Takeaway --> the term 'Gradient Descent algorithm' represents the slope of the function;
+   - [x] :smiley:   Forth Takeaway --> computations of Neural Networks organised in terms of a forward pass (or a forward propagation step),
+   in which we compute output of Neural Networks, followed by a backward pass (or a back propagation step), which we use to compute gradients or derivatives.
 ____
 
 - **Day :three: June 30th, Sunday**: 
