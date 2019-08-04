@@ -30,7 +30,8 @@ ____
         - Encrypted Deep Learning
         
    - [x] :smiley: Started from Differential Privacy and coded the examples.
-   - [x] :smiley: Link to GitHub repo: 
+   
+   - [x] :smiley: Let's see how I can do that. Link to GitHub repo: 
    
             https://github.com/reallygooday/60daysofudacity/blob/master/Differential_Privacy.ipynb
           
