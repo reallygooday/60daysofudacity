@@ -359,7 +359,7 @@ ____
 
    - Experimented with **Style Transfer**, stylised photos with neural networks using PyTorch.
    
-   - Encourage @Nabilah Hannani @Elif Yalı @qayyumb @AaronStone @Reem Qais @Ayush Yadav to stay bold and Udacious !
+   - Encouraged @Nabilah Hannani @Elif Yalı @qayyumb @AaronStone @Reem Qais @Ayush Yadav to stay bold and Udacious !
    
    - Link to Slack post: 
    
@@ -425,7 +425,7 @@ ____
 
    - [x]  Restyled images with Neural Network using personal photos as content.     
    - [x]  Submitted the restyled images for **Project T-Shirt**.
-   - [x]  Encourage @Elif Yalı @Saleeta Qadir @waleed hassan @Elif Yalı @Rabin Banjade @Tasmiyah Qazi @Y. Leonce Eyog @Udolf @Idan Benaun @Olivia Wais @Pablo Martínez @Udolf @Saleeta Qadir @Daibin Raju @Faiz Kidwai @Faiz Kidwai @Gabor Soter @hamzzy @Jade Mays @Jeremiah Kamama @Luis Bronchal. Happy Pytorching ! :pytorch:   
+   - [x]  Encouraged @Elif Yalı @Saleeta Qadir @waleed hassan @Elif Yalı @Rabin Banjade @Tasmiyah Qazi @Y. Leonce Eyog @Udolf @Idan Benaun @Olivia Wais @Pablo Martínez @Udolf @Saleeta Qadir @Daibin Raju @Faiz Kidwai @Faiz Kidwai @Gabor Soter @hamzzy @Jade Mays @Jeremiah Kamama @Luis Bronchal. Happy Pytorching ! :pytorch:   
    
    - [x] Link to Slack posts:
    
@@ -462,7 +462,7 @@ ____
 - **Day :three::seven: August 3, Saturday**:  
   - [x]  :blue_car: Started with AWS DeepRacer and the AWS platform training autonomous racer using reinforcement learning. 
   - [x]  :books: Read the book “Differential Privacy and Applications” by Tianging Zhu, Gang Li, Wanlei Zhou, Philip S.Yu  
-  - [x]  :slightly_smiling_face:  Encourage @Maria Medina @Nada Hammad @birozso @Vaishnav Potlapalli @Çağatay Onur Şengör @Xiaolei Zhang @Zain Sarwar @Lakshya Mutneja @Xenofon Karamanos @Jeremiah Kamama at all times, particularly in times of uncertainty, to try your absolute hardest to keep going forward learning about Private AI and to go 'all-in'. Wishing you loots of Deep Learning fun ! Happy times to you all !  
+  - [x]  :slightly_smiling_face:  Encouraged @Maria Medina @Nada Hammad @birozso @Vaishnav Potlapalli @Çağatay Onur Şengör @Xiaolei Zhang @Zain Sarwar @Lakshya Mutneja @Xenofon Karamanos @Jeremiah Kamama at all times, particularly in times of uncertainty, to try your absolute hardest to keep going forward learning about Private AI and to go 'all-in'. Wishing you loots of Deep Learning fun ! Happy times to you all !  
   - [x] Link to Slack post:
   
   
@@ -493,7 +493,7 @@ ____
            The Multi-style Generative Network is the first to achieve real-time brush size control for multi-style  transfer.
             The picture below shows the Style Transfer results. Personal photos used as content.
             
-  - [x] Encourage @Mansi Goyal @MasterKN @BMC @Vaibhav @Pablo Carmona - Zuluaga @Xiao O @Cristina Zapata @Lisa M. Venezia @Kabiswor Joshi @Jacob Pardue @Hafsa Sam @Gabriel Jiménez Forero @Fabliha Fairooz @Dinak Lal B  . You are awesome ! :smiley:
+  - [x] Encouraged @Mansi Goyal @MasterKN @BMC @Vaibhav @Pablo Carmona - Zuluaga @Xiao O @Cristina Zapata @Lisa M. Venezia @Kabiswor Joshi @Jacob Pardue @Hafsa Sam @Gabriel Jiménez Forero @Fabliha Fairooz @Dinak Lal B  . You are awesome ! :smiley:
   - [x] Link to Slack post:
            
            https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565044485292700    
