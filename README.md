@@ -144,31 +144,31 @@ ____
     - Started reading book **"PyTorch A Problem-Solution Approach" by Pradeepta Mishra**.
 
 ____
-- **Day 13, July 10th, Wednesday**: 
+- **Day :one::three: July 10th, Wednesday**: 
     - Worked on Dog Identification project, 
     - Encourage @Ricardo Felipe Redin @Eric Ndirangu @Ahmad Waly @Y.Leonce Eyog  @PJha to share the progress on learning and @Marcos Junior @Fitsum Ayalew to take up the challenge.
 
 ____
-- **Day 14, July 11, Thursday**: 
+- **Day :one::four: July 11, Thursday**: 
     - Continued working on Dog Breed Identification project. 
     - I encourage @hammedb @Aakanksha Dhurandhar @Idan Benaun to share the learning progress.
 ____
 
-- **Day 15, July 12, Friday**: 
+- **Day :one::five: July 12, Friday**: 
     - Continued working on Dog Breed Identification. 
     - I encourage @Pablo Carmona - Zuluaga @hammedb @Idan Benaun @Idan Benaun @uday.kiran @Yanbin Zhang @Temitope Oladokun @Rabin Banjade @Elif Yalı @R Aishwarya @Elif Yalı @Waad Gamal Shehabeldin @qayyumb to share the learning progress. Time, when it left to itself, cannot be trusted to move at any pace.
 ____
 
-- **Day 16, July 13, Saturday**: 
+- **Day :one::six: July 13, Saturday**: 
     - Continued working on Dog Breed Identification project. 
     - I encourage @Lakshay Wadhwa @K3NNi @J.D.V.P.REDDY  @Hachiman @Gabor Soter @Fabio @Daibin Raju @Waad Gamal Shehabeldin @R Aishwarya @medhagupta098 @falconArrow @hammedb @Vaibhav @Claudia  Hill @Xiaolei Zhang @Yanbin Zhang.
 ____
 
-- **Day 17, July 14, Sunday**: 
+- **Day :one::seven: July 14, Sunday**: 
     - Continued working on Dog Breed Identification project
 ____
 
-- **Day 18, July 15, Monday**: 
+- **Day :one::eight: July 15, Monday**: 
     - Registered for **AWS Online Conference** on the 18th July to learn how to deploy a basic deep learning model on cloud; 
     - Encoraged @ Marcos Junior to take up challenge; 
     - Continued working on Dog Breed Identification project on Kaggle (got stuck with Value Error) 
@@ -180,14 +180,14 @@ ____
 ____
 
 
-- **Day 19, July 16, Tuesday**: 
+- **Day :one::nine: July 16, Tuesday**: 
     - Read book **"PyTorch Recipes" by Pradeepta Mishra**.
 
    ![alt text](/image/mishra.png)
 
 ____
 
-- **Day 20, July 17, Wednesday**: 
+- **Day :two::zero: July 17, Wednesday**: 
    - Read book **"Deep Learning with PyTorch" by Vishnu Subramanian**;
    - Registered for AWS DeepRacer Challenge with Udacity.
   
@@ -195,7 +195,7 @@ ____
  
 _______
 
-- **Day 21, July 18, Thursday**: 
+- **Day :two::one: July 18, Thursday**: 
     - Attended/ watched **the AWS Innovate Conference** online to learn about PyTorch inference with Amazon SageMaker.
 
     - Link to the presentation file: 
@@ -208,7 +208,7 @@ _______
     
 _______
 
-- **Day 22, July 19, Friday**: 
+- **Day :two::two: July 19, Friday**: 
     - Read the book **"Deep Learning with PyTorch" by Vishu Subramanian**.
 
     - Link to Slack post: 
@@ -218,7 +218,7 @@ _______
     ![alt text](/image/vishnu2.png)   
 ____
 
-- **Day 23, July 20, Saturday**: 
+- **Day :two::three: July 20, Saturday**: 
     - Keep on reading the book **"Python Data Analytics" Fabio Nelli**.
     - I encourage @Qazi Rameez Bin Naeem @Ahmad Waly @Eben O @Reem Qais @Tasmiyah Qazi @Elif Yalı@Ugesh S @hamzzy @Temitope Oladokun        @Pablo @R Aishwarya @Saleeta Qadir@Daibin Raju @Fabian Schimpf @Gaurav Yadav @Heather Allen @Jacqueline @hamzzy@Jeremiah Kamama @karthik s @Lakshya Mutneja @Cristina Zapata @Jia Xia @Christian I. Muñoz @Vaishnav Potlapalli @Bharat Bhushan Mishra @Nada Hammad   @Superuser@Udolf to share your learning adventure and progress.
     
@@ -229,7 +229,7 @@ ____
      ![alt text](/image/fabio.png)
 ____
 
-- **Day 24, July 21, Sunday**:  
+- **Day :two::four: July 21, Sunday**:  
     - Reading the book **"Python Deep Learning" (exploring deep learning techniques and neural network architectures   with PyTorch)
     by Ivan Vasilev, Daniel Slater, Gianmario Spacagna, Peter Roelants, Valentino Zocca**.
   
@@ -244,7 +244,7 @@ ____
  
  ____
 
-- **Day 25, July 22, Monday**:     
+- **Day :two::five: July 22, Monday**:     
     - Getting comfortable coding and making predictions with a basic PyTorch Linear Model. 
 
     - Link to Colab Jupyter Notebook:
@@ -261,7 +261,7 @@ ____
     
           https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563809544107500    
 ____
-- **Day 26, July 23, Tuesday**:  
+- **Day :two::six: July 23, Tuesday**:  
     - Trained a linear model to fit training data using gradient descent. 
     
     - Link to GitHub Jupyter Notebook: 
@@ -281,7 +281,7 @@ ____
     ![alt text](/image/lr.png)
 ____
 
-- **Day 27, July 24, Wednesday**:  
+- **Day :two::seven: July 24, Wednesday**:  
 
     :heavy_check_mark: Started reading book **"Python Data Science Essentials " by Alberto Boschetti and Luca Massaron**;
     
@@ -299,7 +299,7 @@ ____
       
 ____
 
-- **Day 28, July 25, Thursday**: 
+- **Day :two::eight: July 25, Thursday**: 
 
     :heavy_check_mark:Getting comfortable building a basic image classification;    
     
@@ -315,7 +315,7 @@ ____
      
 ____
 
-- **Day 29, July 26, Friday**:  
+- **Day :two::nine: July 26, Friday**:  
 
     - Read article **“How to Use Deep Learning to Write Shakespeare”** 
     
