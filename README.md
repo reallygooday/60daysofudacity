@@ -108,35 +108,35 @@ ____
 ____
 
 - **Day :seven: July 4th, Thursday**: 
-   - [x] :smiley:    
-   - [x] :smiley:   
-   - [x] :smiley:   
-   - [x] :smiley:
+   - [x] :smiley:    watched Lesson 2 'Deep Learning with PyTorch',
+   - [x] :smiley:    learned about Network Architectures, how to accelerate network computations using a GPU, how to implement Softmax.
+
 ____
 
 - **Day :eight: July 5th, Friday**: 
   
-   - [x] :smiley:    
-   - [x] :smiley:   
-   - [x] :smiley:   
-   - [x] :smiley:
+   - [x] :smiley:    watched Lesson 3 'Introducing Differential Privacy',
+   - [x] :smiley:    learned about basics of differential privacy, a method for measuring how operations impact the privacy of data.
+ 
 ____
 
 - **Day :nine: July 6th, Saturday**: 
-   - [x] :smiley:    
-   - [x] :smiley:   
-   - [x] :smiley:   
-   - [x] :smiley:
+   - [x] :smiley:    watched Lesson 4 'Evaluating Privacy of a Function',   
+   - [x] :smiley:    implemented differential privacy.
+  
 ____
 
 - **Day :one::zero: July 7th, Sunday**: 
-    - Getting comfortable coding with tensors.
 
-    - Link to GitHUb Jupyter Notebook:
+   - [x] :smiley:    watched Lesson 5 'Introducing Local and Global Differential Privacy',   
+   - [x] :smiley:    learned how to apply differential privacy to arbitrary algorithms by adding noise to the outputs,
+   - [x] :smiley:    getting comfortable coding with tensors,
+
+   - [x] :smiley:    link to GitHUb Jupyter Notebook:
     
                   https://github.com/reallygooday/60daysofudacity/blob/master/intro_to_tensors.ipynb
 
-    - Link to Colab Jupyter Notebook: 
+   - [x] :smiley:    link to Colab Jupyter Notebook: 
     
                   https://colab.research.google.com/drive/1Z2o5t8-yrwtu9LCRgcbxmCwTyaQOHx-s#scrollTo=hI7zQLnAf1Q3  
                   
@@ -156,28 +156,30 @@ ____
   ![alt text](/image/bot3.png)
 ____
 - **Day :one::two: July 9th, Tuesday**: 
-    - Participated at study group virtual meeting, worked on chatbot, 
-    - Started reading book **"PyTorch A Problem-Solution Approach" by Pradeepta Mishra**.
+   - [x] :smiley:    watched Lesson 6 'Differential Privacy for Deep Learning',   
+   - [x] :smiley:    learned how to apply differential privacy to deep neural networks,
+   - [x] :smiley:    participated at study group virtual meeting, worked on the chatbot application, 
+   - [x] :smiley:    started reading book **"PyTorch A Problem-Solution Approach" by Pradeepta Mishra**.
 
 ____
 - **Day :one::three: July 10th, Wednesday**: 
     - Worked on Dog Identification project, 
-    - Encourage @Ricardo Felipe Redin @Eric Ndirangu @Ahmad Waly @Y.Leonce Eyog  @PJha to share the progress on learning and @Marcos Junior @Fitsum Ayalew to take up the challenge.
+    - Encouraged @Ricardo Felipe Redin @Eric Ndirangu @Ahmad Waly @Y.Leonce Eyog  @PJha to share the progress on learning and @Marcos Junior @Fitsum Ayalew to take up the challenge.
 
 ____
 - **Day :one::four: July 11, Thursday**: 
     - Continued working on Dog Breed Identification project. 
-    - I encourage @hammedb @Aakanksha Dhurandhar @Idan Benaun to share the learning progress.
+    - Encouraged @hammedb @Aakanksha Dhurandhar @Idan Benaun to share the learning progress.
 ____
 
 - **Day :one::five: July 12, Friday**: 
     - Continued working on Dog Breed Identification. 
-    - I encourage @Pablo Carmona - Zuluaga @hammedb @Idan Benaun @Idan Benaun @uday.kiran @Yanbin Zhang @Temitope Oladokun @Rabin Banjade @Elif Yalı @R Aishwarya @Elif Yalı @Waad Gamal Shehabeldin @qayyumb to share the learning progress. Time, when it left to itself, cannot be trusted to move at any pace.
+    - Encouraged @Pablo Carmona - Zuluaga @hammedb @Idan Benaun @Idan Benaun @uday.kiran @Yanbin Zhang @Temitope Oladokun @Rabin Banjade @Elif Yalı @R Aishwarya @Elif Yalı @Waad Gamal Shehabeldin @qayyumb to share the learning progress. Time, when it left to itself, cannot be trusted to move at any pace.
 ____
 
 - **Day :one::six: July 13, Saturday**: 
     - Continued working on Dog Breed Identification project. 
-    - I encourage @Lakshay Wadhwa @K3NNi @J.D.V.P.REDDY  @Hachiman @Gabor Soter @Fabio @Daibin Raju @Waad Gamal Shehabeldin @R Aishwarya @medhagupta098 @falconArrow @hammedb @Vaibhav @Claudia  Hill @Xiaolei Zhang @Yanbin Zhang.
+    - Encouraged @Lakshay Wadhwa @K3NNi @J.D.V.P.REDDY  @Hachiman @Gabor Soter @Fabio @Daibin Raju @Waad Gamal Shehabeldin @R Aishwarya @medhagupta098 @falconArrow @hammedb @Vaibhav @Claudia  Hill @Xiaolei Zhang @Yanbin Zhang.
 ____
 
 - **Day :one::seven: July 14, Sunday**: 
@@ -236,7 +238,7 @@ ____
 
 - **Day :two::three: July 20, Saturday**: 
     - Keep on reading the book **"Python Data Analytics" Fabio Nelli**.
-    - I encourage @Qazi Rameez Bin Naeem @Ahmad Waly @Eben O @Reem Qais @Tasmiyah Qazi @Elif Yalı@Ugesh S @hamzzy @Temitope Oladokun        @Pablo @R Aishwarya @Saleeta Qadir@Daibin Raju @Fabian Schimpf @Gaurav Yadav @Heather Allen @Jacqueline @hamzzy@Jeremiah Kamama @karthik s @Lakshya Mutneja @Cristina Zapata @Jia Xia @Christian I. Muñoz @Vaishnav Potlapalli @Bharat Bhushan Mishra @Nada Hammad   @Superuser@Udolf to share your learning adventure and progress.
+    - Encouraged @Qazi Rameez Bin Naeem @Ahmad Waly @Eben O @Reem Qais @Tasmiyah Qazi @Elif Yalı@Ugesh S @hamzzy @Temitope Oladokun        @Pablo @R Aishwarya @Saleeta Qadir@Daibin Raju @Fabian Schimpf @Gaurav Yadav @Heather Allen @Jacqueline @hamzzy@Jeremiah Kamama @karthik s @Lakshya Mutneja @Cristina Zapata @Jia Xia @Christian I. Muñoz @Vaishnav Potlapalli @Bharat Bhushan Mishra @Nada Hammad   @Superuser@Udolf to share your learning adventure and progress.
     
     - Link to Slack post: 
     
@@ -249,7 +251,7 @@ ____
     - Reading the book **"Python Deep Learning" (exploring deep learning techniques and neural network architectures   with PyTorch)
     by Ivan Vasilev, Daniel Slater, Gianmario Spacagna, Peter Roelants, Valentino Zocca**.
   
-    - I encourage @Reem Qais @Cristian Lazo Quispe @Brandon W @Eman @Nada Hammad @Ravikant Singh @Tesin Dosch @Ayush Yadav @Udit Singhania @Ignacio Palos Reynoso @Christian I. Muñoz @Olivia Wais @Pablo Martínez @R Aishwarya @Fabian Schimpf @Dheemanth M D @Faiz Kidwai @Felipe Damascena @Gabriel Giro Resende @Hafsa Sam @Jade Mays @Hadeel Alabandi @K3NNi @kumarklc to keep constant thirst for new knowledge.
+    - Encouraged @Reem Qais @Cristian Lazo Quispe @Brandon W @Eman @Nada Hammad @Ravikant Singh @Tesin Dosch @Ayush Yadav @Udit Singhania @Ignacio Palos Reynoso @Christian I. Muñoz @Olivia Wais @Pablo Martínez @R Aishwarya @Fabian Schimpf @Dheemanth M D @Faiz Kidwai @Felipe Damascena @Gabriel Giro Resende @Hafsa Sam @Jade Mays @Hadeel Alabandi @K3NNi @kumarklc to keep constant thirst for new knowledge.
   
     - Link to Slack post: 
     
@@ -305,7 +307,7 @@ ____
     
           https://github.com/reallygooday/60daysofudacity;
     
-    :heavy_check_mark: I would like to encourage awesome people @Sankalp Dayal @Evi @Archit @Berenice @Maria Medina @Nabilah Hannani   @Brendan Odigwe @AaronStone @Christine Rehm @Biswajit Banerjee @qayyumb to have audacious goals. :bettertogether:
+    :heavy_check_mark: Encouraged awesome people @Sankalp Dayal @Evi @Archit @Berenice @Maria Medina @Nabilah Hannani   @Brendan Odigwe @AaronStone @Christine Rehm @Biswajit Banerjee @qayyumb to have audacious goals. :bettertogether:
     
      Link to Slack post:   
      
@@ -350,7 +352,7 @@ ____
 
    - Experimented with **Style Transfer**, stylised photos with neural networks using PyTorch.
    
-   - I would like to encourage @Nabilah Hannani @Elif Yalı @qayyumb @AaronStone @Reem Qais @Ayush Yadav to stay bold and Udacious !
+   - Encourage @Nabilah Hannani @Elif Yalı @qayyumb @AaronStone @Reem Qais @Ayush Yadav to stay bold and Udacious !
    
    - Link to Slack post: 
    
@@ -416,7 +418,7 @@ ____
 
    - [x]  Restyled images with Neural Network using personal photos as content.     
    - [x]  Submitted the restyled images for **Project T-Shirt**.
-   - [x]  I would like to encourage @Elif Yalı @Saleeta Qadir @waleed hassan @Elif Yalı @Rabin Banjade @Tasmiyah Qazi @Y. Leonce Eyog @Udolf @Idan Benaun @Olivia Wais @Pablo Martínez @Udolf @Saleeta Qadir @Daibin Raju @Faiz Kidwai @Faiz Kidwai @Gabor Soter @hamzzy @Jade Mays @Jeremiah Kamama @Luis Bronchal. Happy Pytorching ! :pytorch:   
+   - [x]  Encourage @Elif Yalı @Saleeta Qadir @waleed hassan @Elif Yalı @Rabin Banjade @Tasmiyah Qazi @Y. Leonce Eyog @Udolf @Idan Benaun @Olivia Wais @Pablo Martínez @Udolf @Saleeta Qadir @Daibin Raju @Faiz Kidwai @Faiz Kidwai @Gabor Soter @hamzzy @Jade Mays @Jeremiah Kamama @Luis Bronchal. Happy Pytorching ! :pytorch:   
    
    - [x] Link to Slack posts:
    
@@ -453,7 +455,7 @@ ____
 - **Day :three::seven: August 3, Saturday**:  
   - [x]  :blue_car: Started with AWS DeepRacer and the AWS platform training autonomous racer using reinforcement learning. 
   - [x]  :books: Read the book “Differential Privacy and Applications” by Tianging Zhu, Gang Li, Wanlei Zhou, Philip S.Yu  
-  - [x]  :slightly_smiling_face:  I would like to encourage @Maria Medina @Nada Hammad @birozso @Vaishnav Potlapalli @Çağatay Onur Şengör @Xiaolei Zhang @Zain Sarwar @Lakshya Mutneja @Xenofon Karamanos @Jeremiah Kamama at all times, particularly in times of uncertainty, to try your absolute hardest to keep going forward learning about Private AI and to go 'all-in'. Wishing you loots of Deep Learning fun ! Happy times to you all !  
+  - [x]  :slightly_smiling_face:  Encourage @Maria Medina @Nada Hammad @birozso @Vaishnav Potlapalli @Çağatay Onur Şengör @Xiaolei Zhang @Zain Sarwar @Lakshya Mutneja @Xenofon Karamanos @Jeremiah Kamama at all times, particularly in times of uncertainty, to try your absolute hardest to keep going forward learning about Private AI and to go 'all-in'. Wishing you loots of Deep Learning fun ! Happy times to you all !  
   - [x] Link to Slack post:
   
   
@@ -484,7 +486,7 @@ ____
            The Multi-style Generative Network is the first to achieve real-time brush size control for multi-style  transfer.
             The picture below shows the Style Transfer results. Personal photos used as content.
             
-  - [x] I would like to encourage @Mansi Goyal @MasterKN @BMC @Vaibhav @Pablo Carmona - Zuluaga @Xiao O @Cristina Zapata @Lisa M. Venezia @Kabiswor Joshi @Jacob Pardue @Hafsa Sam @Gabriel Jiménez Forero @Fabliha Fairooz @Dinak Lal B  . You are awesome ! :smiley:
+  - [x] Encourage @Mansi Goyal @MasterKN @BMC @Vaibhav @Pablo Carmona - Zuluaga @Xiao O @Cristina Zapata @Lisa M. Venezia @Kabiswor Joshi @Jacob Pardue @Hafsa Sam @Gabriel Jiménez Forero @Fabliha Fairooz @Dinak Lal B  . You are awesome ! :smiley:
   - [x] Link to Slack post:
            
            https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565044485292700    
