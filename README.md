@@ -449,19 +449,24 @@ ____
     ![alt text](/image/reward.png)  
 ____
 
-- **Day 38, August 4, Sunday**: 
-  -
-  -
-  -
-  -
+- **Day :three::eight: August 4, Sunday**: 
+  - [x] worked on programming exercises related to Broadcasting with PyTorch and Vectorisation. 
+  - [x] Link to Slack post:
+  
+  
+               https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564952806091900  
+  
 ____
 
-- **Day 39, August 5, Monday**: 
-  - [x] read the paper about MSG-Net;
-  - [x] experimented with PyTorch MSG-Net.
+- **Day :three::nine: August 5, Monday**: 
+  - [x] read the paper about MSG-Net; link to the paper:
+  
+              https://github.com/reallygooday/60daysofudacity/blob/master/academic%20paper/Zhang_Multi-style_Generative_Network_for_Real-time_Transfer_ECCVW_2018_paper.pdf  
+  
+  - [x] experimented with PyTorch MSG-Net:
   
            The Multi-style Generative Network is the first to achieve real-time brush size control for multi-style  transfer.
-            The picture below shows the results. Personal photos used as content.
+            The picture below shows the Style Transfer results. Personal photos used as content.
             
   - [x] I would like to encourage @Mansi Goyal @MasterKN @BMC @Vaibhav @Pablo Carmona - Zuluaga @Xiao O @Cristina Zapata @Lisa M. Venezia @Kabiswor Joshi @Jacob Pardue @Hafsa Sam @Gabriel Jiménez Forero @Fabliha Fairooz @Dinak Lal B  . You are awesome ! :smiley:
   - [x] Link to Slack post:
@@ -471,11 +476,11 @@ ____
            
       ![alt text](/image/family.png)   
 ____ 
-- **Day 40, August 6, Tuesday**: 
-  -
-  -
-  -
-  -
+- **Day :four::zero: August 6, Tuesday**: 
+  - [x]
+  - [x]
+  - [x]
+  - [x]
 
 
 
