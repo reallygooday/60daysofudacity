@@ -457,19 +457,20 @@ ____
 ____
 
 - **Day 39, August 5, Monday**: 
-  - [v] read the paper about MSG-Net;
-  - [v]  experimented with PyTorch MSG-Net.
+  - [x] read the paper about MSG-Net;
+  - [x] experimented with PyTorch MSG-Net.
   
            The Multi-style Generative Network is the first to achieve real-time brush size control for multi-style  transfer.
             The picture below shows the results. Personal photos used as content.
             
-  - {x} I would like to encourage @Mansi Goyal @MasterKN @BMC @Vaibhav @Pablo Carmona - Zuluaga @Xiao O @Cristina Zapata @Lisa M. Venezia @Kabiswor Joshi @Jacob Pardue @Hafsa Sam @Gabriel Jiménez Forero @Fabliha Fairooz @Dinak Lal B  . You are awesome ! :smiley:
-  - (v) Link to Slack post:
+  - [x] I would like to encourage @Mansi Goyal @MasterKN @BMC @Vaibhav @Pablo Carmona - Zuluaga @Xiao O @Cristina Zapata @Lisa M. Venezia @Kabiswor Joshi @Jacob Pardue @Hafsa Sam @Gabriel Jiménez Forero @Fabliha Fairooz @Dinak Lal B  . You are awesome ! :smiley:
+  - [x] Link to Slack post:
            
            https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565044485292700    
            https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565034137147700 
-  ____
-
+           
+      ![alt text](/image/family.png)   
+____ 
 - **Day 40, August 6, Tuesday**: 
   -
   -
