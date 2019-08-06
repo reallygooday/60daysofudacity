@@ -280,7 +280,7 @@ ____
     
           https://github.com/reallygooday/60daysofudacity/blob/master/Day25_Linear_Model.ipynb
   
-    - Encouragements: I encourage to succeed the following talented students @hamzzy @Nabilah Hannani @R Aishwarya @birozso @Pablo @Naveen Tadala @Vaibhav @Claudia Hill @Xenofon Karamanos @zilu.
+    - Encouraged to succeed the following talented students @hamzzy @Nabilah Hannani @R Aishwarya @birozso @Pablo @Naveen Tadala @Vaibhav @Claudia Hill @Xenofon Karamanos @zilu.
     
     - Link to Slack post: 
     
