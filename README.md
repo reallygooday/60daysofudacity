@@ -71,11 +71,17 @@ ____
 
  ____
 
-- **Day :five: July 2th, Tuesday**: 
-   - [x] :smiley:    
-   - [x] :smiley:   
-   - [x] :smiley:   
-   - [x] :smiley:
+- **Day :five: July 2th, Tuesday**: learned:
+   - [x] :smiley:    how to authenticate Google Colab access to Google Drive and mount Google Drive
+   
+                                  from google.colab import drive
+                                  drive.mount('/content/gdrive')   
+                                  
+   - [x] :smiley:   how to save the trained model to Google Drive with **torch,save**;                             
+   - [x] :smiley:   how to load the model from Google Drive and reuse it with **torch.load**.
+   - [x] :smiley:   Link to the article with more details:
+   
+                                  https://medium.com/@ml_kid/how-to-save-our-model-to-google-drive-and-reuse-it-2c1028058cb2 
 ____
 
 - **Day :six: July 3th, Wednesday**: 
