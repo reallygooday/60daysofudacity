@@ -85,10 +85,19 @@ ____
 ____
 
 - **Day :six: July 3th, Wednesday**: 
-   - [x] :smiley:    
-   - [x] :smiley:   
-   - [x] :smiley:   
-   - [x] :smiley:
+   - [x] :smiley:    worked on Credit Risk project using Logistic Regression
+                     link to the project:
+                     
+                     https://github.com/reallygooday/60daysofudacity/blob/master/CreditRisk.ipynb   
+                   
+   - [x] :smiley:   started Udacity "Introduction to Deep Learning with PyTorch course",
+   - [x] :smiley:   watched the following video-lessons:
+                    - Introduction to Neural Networks,
+                    - Convolutional Neural Networks,
+                    - Style Transfer,
+                    - Recurrent Neural Networks,
+                    - Sentiment Prediction RNN,
+                    - Deploying PyTorch Models.
 ____
 
 - **Day :seven: July 4th, Thursday**: 
