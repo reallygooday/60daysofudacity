@@ -77,7 +77,7 @@ ____
                                   from google.colab import drive
                                   drive.mount('/content/gdrive')   
                                   
-   - [x] :smiley:   how to save the trained model to Google Drive with **torch,save**;                             
+   - [x] :smiley:   how to save the trained model to Google Drive with **torch.save**;                             
    - [x] :smiley:   how to load the model from Google Drive and reuse it with **torch.load**.
    - [x] :smiley:   Link to the article with more details:
    
