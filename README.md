@@ -460,8 +460,12 @@ ____
   -
   -
   -
-  -
-____
+  - (x) I would like to encourage @Mansi Goyal @MasterKN @BMC @Vaibhav @Pablo Carmona - Zuluaga @Xiao O @Cristina Zapata @Lisa M. Venezia @Kabiswor Joshi @Jacob Pardue @Hafsa Sam @Gabriel Jiménez Forero @Fabliha Fairooz @Dinak Lal B  . You are awesome ! :smiley:
+  - (x) Link to Slack post:
+           
+           https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565044485292700                     
+  
+  ____
 
 - **Day 40, August 6, Tuesday**: 
   -
