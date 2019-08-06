@@ -163,18 +163,25 @@ ____
 
 ____
 - **Day :one::three: July 10th, Wednesday**: 
-    - Worked on Dog Identification project, 
-    - Encouraged @Ricardo Felipe Redin @Eric Ndirangu @Ahmad Waly @Y.Leonce Eyog  @PJha to share the progress on learning and @Marcos Junior @Fitsum Ayalew to take up the challenge.
+   - [x] :smiley:    watched Lesson 7 'Federated Learning',   
+   - [x] :smiley:    learned about FL, a method for preserving data privacy by training models where the data lives,
+   - [x] :smiley:    worked on Kaggle Dog Identification project, 
+   - [x] :smiley:    encouraged @Ricardo Felipe Redin @Eric Ndirangu @Ahmad Waly @Y.Leonce Eyog  @PJha to share the progress on learning and @Marcos Junior @Fitsum Ayalew to take up the challenge.
 
 ____
 - **Day :one::four: July 11, Thursday**: 
-    - Continued working on Dog Breed Identification project. 
-    - Encouraged @hammedb @Aakanksha Dhurandhar @Idan Benaun to share the learning progress.
+   - [x] :smiley:    watched Lesson 8 'Securing Federated Learning',   
+   - [x] :smiley:    learned about secure models trained using Federated Learning with multi-party computation,
+   - [x] :smiley:    continued working on Kaggle Dog Breed Identification project, 
+   - [x] :smiley:    encouraged @hammedb @Aakanksha Dhurandhar @Idan Benaun to share the learning progress.
 ____
 
 - **Day :one::five: July 12, Friday**: 
-    - Continued working on Dog Breed Identification. 
-    - Encouraged @Pablo Carmona - Zuluaga @hammedb @Idan Benaun @Idan Benaun @uday.kiran @Yanbin Zhang @Temitope Oladokun @Rabin Banjade @Elif Yalı @R Aishwarya @Elif Yalı @Waad Gamal Shehabeldin @qayyumb to share the learning progress. Time, when it left to itself, cannot be trusted to move at any pace.
+
+  - [x] :smiley:    watched Lesson 9 'Encrypted Deep Learning',   
+  - [x] :smiley:    learned how to perform encrypted computation, builded on encrypted database, and generated an encrypted prediction   with an encrypted neural network on an encrypted dataset,
+  - [x] :smiley:     continued working on Kaggle Dog Breed Identification. 
+  - [x] :smiley:     encouraged @Pablo Carmona - Zuluaga @hammedb @Idan Benaun @Idan Benaun @uday.kiran @Yanbin Zhang @Temitope Oladokun @Rabin Banjade @Elif Yalı @R Aishwarya @Elif Yalı @Waad Gamal Shehabeldin @qayyumb to share the learning progress. Time, when it left to itself, cannot be trusted to move at any pace.
 ____
 
 - **Day :one::six: July 13, Saturday**: 
