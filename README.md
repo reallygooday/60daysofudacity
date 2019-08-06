@@ -1,9 +1,9 @@
 
 <img align="right" width="400" height="200" src="/image/ai.png">
 
-**60 DAYS OF UDACITY** 
+# **60 DAYS OF UDACITY** 
 
-Link: https://sites.google.com/udacity.com/secureprivateai-challenge/community/60daysofudacity?authuser=0
+
 ____
 
 ## *POSTING MY DAILY REPORTS*
