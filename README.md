@@ -506,10 +506,12 @@ ____
       ![alt text](/image/family.png)   
 ____ 
 - **Day :four::zero: August 6, Tuesday**: 
-  - [x]
-  - [x]
-  - [x]
-  - [x]
-
+  - [x] Investigated, worked on correcting the following errors:
+import error in coded implementation of encrypted training with PySyft’,
+index error in coded implementation of text generator with character level RNN.  
+  - [x] Encouraged  the following wonderful scholars  @Jeremiah Kamama, @Tasmiyah Qazi @Chetto13 @Wamaitha @Eko Edita Limanta @Rachesh @Hung @Noom Chanthadit @Ujjwal @ibasly @Octavio @Pooja Vinod to push the limits of own superpower. :smile: (edited) 
+  - [x] Link to Slack post:
+  
+               https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565118650143600
 
 
