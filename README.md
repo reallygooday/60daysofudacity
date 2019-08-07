@@ -156,10 +156,14 @@ ____
   ![alt text](/image/bot3.png)
 ____
 - **Day :one::two: July 9th, Tuesday**: 
-   - [x] :smiley:    watched Lesson 6 'Differential Privacy for Deep Learning',   
-   - [x] :smiley:    learned how to apply differential privacy to deep neural networks,
-   - [x] :smiley:    participated at study group virtual meeting, worked on the chatbot application, 
+   - [x] :smiley:    watched Lesson 6 'Differential Privacy for Deep Learning';  
+   - [x] :smiley:    learned how to apply differential privacy to deep neural networks;
+   - [x] :smiley:    participated in study group #sg_applied_dl virtual discussion from 3:30pm on Slack;
+   - [x] :smiley:    worked on the chatbot application;
    - [x] :smiley:    started reading book **"PyTorch A Problem-Solution Approach" by Pradeepta Mishra**.
+   - [x] :smiley:    Link to Slack post:
+                   
+                   https://github.com/reallygooday/60daysofudacity/blob/master/day_12.pdf
 
 ____
 - **Day :one::three: July 10th, Wednesday**: 
