@@ -20,5 +20,9 @@ Zhou, H., Lan, J., Liu, R., & Yosinski, J. (2019). Deconstructing Lottery Ticket
 https://arxiv.org/pdf/1905.01067.pdf
 
 
+Leon A. Gatys, Alexander S. Ecker, Matthias Bethge(2016). Image Style Transfer Using Convolutional Neural Networks.
+https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
 
 
+Hang Zhang, Kristin Dana (2018) Multi-style Generative Network for Real-time Transfer.
+http://openaccess.thecvf.com/content_ECCVW_2018/papers/11132/Zhang_Multi-style_Generative_Network_for_Real-time_Transfer_ECCVW_2018_paper.pdf
