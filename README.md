@@ -514,4 +514,28 @@ index error in coded implementation of text generator with character level RNN.
   
                https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565118650143600
 
-
+____ 
+- **Day :four::one: August 7, Wednesday**: 
+  - [x] getting back to basics, continued coding activities using tutorials for beginners in PySyft
+(https://github.com/OpenMined/PySyft/tree/dev/examples/tutorials).  
+  - [x] Encouraged the following amazing scholars @xworow @Caitlyn Singam @Vaibhav Sachdeva @bhavz @Noom Chanthadit @Mahi @Larissa de Moura @Jia Xia @medhagupta098 to act one step ahead in learning.  
+  - [x] Link to Slack post:
+  
+               https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565214285386900               
+               
+____ 
+- **Day :four::two: August 8, Thursday**: 
+  - [x] continued learning about RNN (both GRU and LSTM) from Coursera - specific types of RNN architecture with sequence data (many-to-one, many-to many, one-to-many);  
+  - [x] participated in #jobs channel activity Resume Evaluation.
+  - [x] Encouraged @Vaibhav @Nachiket @Fahad Farooq @Hafsa Sam @Aim  
+  - [x] Link to Slack post:
+  
+               https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565304435463700               
+    ____ 
+- **Day :four::three: August 9, Friday**: 
+  - [x] 
+  - [x] Encouraged  the following wonderful scholars   
+  - [x] Link to Slack post:
+  
+               
+                     
