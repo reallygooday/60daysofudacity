@@ -18,7 +18,7 @@ ____
 ## ***I'm Super Excited, Let's Get Started***
 
 - **Day :one:  June 28th, Friday**: 
-   - [x] :smiley: Prioritising & Planning 
+   - [x] Prioritising & Planning 
 
         Secure and Private AI Challenge content summary:
         - Differential Privacy
@@ -29,70 +29,70 @@ ____
         - Securing Federated Learning
         - Encrypted Deep Learning
         
-   - [x] :smiley: Started from Differential Privacy and coded the examples.
+   - [x] Started from Differential Privacy and coded the examples.
    
-   - [x] :smiley: Let's see how I can do that. Link to GitHub repo: 
+   - [x] Let's see how I can do that. Link to GitHub repo: 
    
             https://github.com/reallygooday/60daysofudacity/blob/master/Differential_Privacy.ipynb
           
 ____
 
 - **Day :two: June 29th, Saturday**: Gaining intuitive understanding about the basics of Neural Networks:
-   - [x] :smiley:   First Takeaway --> the term 'Logistic Regression' represents a small Neural Network and learning algorithm for Binary Classification Problem;
-   - [x] :smiley:   Second Takeaway --> the loss function of Logistic Regression computes the error for a single training example,
+   - [x]    First Takeaway --> the term 'Logistic Regression' represents a small Neural Network and learning algorithm for Binary Classification Problem;
+   - [x]    Second Takeaway --> the loss function of Logistic Regression computes the error for a single training example,
    the cost function of Logistic Regression is the average of the loss function of the entire training set);
-   - [x] :smiley:   Third Takeaway --> the term 'Gradient Descent algorithm' represents the slope of the function;
-   - [x] :smiley:   Forth Takeaway --> computations of Neural Networks organised in terms of a forward pass (or a forward propagation step),
+   - [x]    Third Takeaway --> the term 'Gradient Descent algorithm' represents the slope of the function;
+   - [x]    Forth Takeaway --> computations of Neural Networks organised in terms of a forward pass (or a forward propagation step),
    in which we compute output of Neural Networks, followed by a backward pass (or a back propagation step), which we use to compute gradients or derivatives.
 ____
 
 - **Day :three: June 30th, Sunday**: 
-   - [x] :smiley:   doing the programming exercises;
-   - [x] :smiley:   learning about vectorization, re-writting explicit 'for' loops;
-   - [x] :smiley:   non-vectorize, looped code takes much longer than vectorize code;
-   - [x] :smiley:   read the article **'Why you should forget ‘for-loop’ for data science code and embrace vectorization'**
-   - [x] :smiley:   link to the article:
+   - [x]    doing the programming exercises;
+   - [x]    learning about vectorization, re-writting explicit 'for' loops;
+   - [x]    non-vectorize, looped code takes much longer than vectorize code;
+   - [x]    read the article **'Why you should forget ‘for-loop’ for data science code and embrace vectorization'**
+   - [x]    link to the article:
    
                     https://towardsdatascience.com/why-you-should-forget-for-loop-for-data-science-code-and-embrace-vectorization-696632622d5f   
     - [x] :smiley:   The Thing To Remember: Vectorize Your Code to speed up, to get results faster !
  ____
 
 - **Day :four: July 1th, Monday**: 
-   - [x] :smiley:   read the article **'Broadcasting with PyTorch'**;
-   - [x] :smiley:   I allude briefly to the main points, Rules of Broadcasting -->
+   - [x]    read the article **'Broadcasting with PyTorch'**;
+   - [x]    I allude briefly to the main points, Rules of Broadcasting -->
         - Rule 0: Each tensor has at least one dimension(trivial)
         - Rule 1: If the two arrays differ in their number of dimensions, the shape of the one with fewer dimensions is padded with ones on its leading (left) side.
         - Rule 2: If the shape of the two arrays does not match in any dimension, the array with shape equal to 1 in that dimension is stretched to match the other shape.
         - Rule 3: If in any dimension the sizes disagree and neither is equal to 1, an error is raised.   
 
-    - [x] :smiley:  link to the article: 
+    - [x]   link to the article: 
    
                      https://mc.ai/broadcasting-with-pytorch/   
 
  ____
 
 - **Day :five: July 2th, Tuesday**: learned:
-   - [x] :smiley:    how to authenticate Google Colab access to Google Drive and mount Google Drive
+   - [x]     how to authenticate Google Colab access to Google Drive and mount Google Drive
    
                                   from google.colab import drive
                                   drive.mount('/content/gdrive')   
                                   
-   - [x] :smiley:   how to save the trained model to Google Drive with **torch.save**;                             
-   - [x] :smiley:   how to load the model from Google Drive and reuse it with **torch.load**.
-   - [x] :smiley:   Link to the article with more details:
+   - [x]     how to save the trained model to Google Drive with **torch.save**;                             
+   - [x]     how to load the model from Google Drive and reuse it with **torch.load**.
+   - [x]     Link to the article with more details:
    
                                   https://medium.com/@ml_kid/how-to-save-our-model-to-google-drive-and-reuse-it-2c1028058cb2 
 ____
 
 - **Day :six: July 3th, Wednesday**: 
-   - [x] :smiley:    worked on Credit Risk project using Logistic Regression Model,
-   - [x] :smiley:    link to the project:
+   - [x]     worked on Credit Risk project using Logistic Regression Model,
+   - [x]     link to the project:
                      
                      https://github.com/reallygooday/60daysofudacity/blob/master/CreditRisk.ipynb   
                    
-   - [x] :smiley:   started Udacity "Introduction to Deep Learning with PyTorch course",
+   - [x]     started Udacity "Introduction to Deep Learning with PyTorch course",
    
-   - [x] :smiley:   watched the following video-lessons:
+   - [x]     watched the following video-lessons:
    
                     - Introduction to Neural Networks,
                    
@@ -108,35 +108,35 @@ ____
 ____
 
 - **Day :seven: July 4th, Thursday**: 
-   - [x] :smiley:    watched Lesson 2 'Deep Learning with PyTorch',
-   - [x] :smiley:    learned about Network Architectures, how to accelerate network computations using a GPU, how to implement Softmax.
+   - [x]     watched Lesson 2 'Deep Learning with PyTorch',
+   - [x]     learned about Network Architectures, how to accelerate network computations using a GPU, how to implement Softmax.
 
 ____
 
 - **Day :eight: July 5th, Friday**: 
   
-   - [x] :smiley:    watched Lesson 3 'Introducing Differential Privacy',
-   - [x] :smiley:    learned about basics of differential privacy, a method for measuring how operations impact the privacy of data.
+   - [x]     watched Lesson 3 'Introducing Differential Privacy',
+   - [x]     learned about basics of differential privacy, a method for measuring how operations impact the privacy of data.
  
 ____
 
 - **Day :nine: July 6th, Saturday**: 
-   - [x] :smiley:    watched Lesson 4 'Evaluating Privacy of a Function',   
-   - [x] :smiley:    implemented differential privacy.
+   - [x]     watched Lesson 4 'Evaluating Privacy of a Function',   
+   - [x]     implemented differential privacy.
   
 ____
 
 - **Day :one::zero: July 7th, Sunday**: 
 
-   - [x] :smiley:    watched Lesson 5 'Introducing Local and Global Differential Privacy',   
-   - [x] :smiley:    learned how to apply differential privacy to arbitrary algorithms by adding noise to the outputs,
-   - [x] :smiley:    getting comfortable coding with tensors,
+   - [x]     watched Lesson 5 'Introducing Local and Global Differential Privacy',   
+   - [x]     learned how to apply differential privacy to arbitrary algorithms by adding noise to the outputs,
+   - [x]     getting comfortable coding with tensors,
 
-   - [x] :smiley:    link to GitHUb Jupyter Notebook:
+   - [x]     link to GitHUb Jupyter Notebook:
     
                   https://github.com/reallygooday/60daysofudacity/blob/master/intro_to_tensors.ipynb
 
-   - [x] :smiley:    link to Colab Jupyter Notebook: 
+   - [x]     link to Colab Jupyter Notebook: 
     
                   https://colab.research.google.com/drive/1Z2o5t8-yrwtu9LCRgcbxmCwTyaQOHx-s#scrollTo=hI7zQLnAf1Q3  
                   
@@ -156,36 +156,36 @@ ____
   ![alt text](/image/bot3.png)
 ____
 - **Day :one::two: July 9th, Tuesday**: 
-   - [x] :smiley:    watched Lesson 6 'Differential Privacy for Deep Learning';  
-   - [x] :smiley:    learned how to apply differential privacy to deep neural networks;
-   - [x] :smiley:    participated in study group #sg_applied_dl virtual discussion from 3:30pm on Slack;
-   - [x] :smiley:    worked on the chatbot application;
-   - [x] :smiley:    started reading book **"PyTorch A Problem-Solution Approach" by Pradeepta Mishra**.
-   - [x] :smiley:    Link to Slack post:
+   - [x]     watched Lesson 6 'Differential Privacy for Deep Learning';  
+   - [x]     learned how to apply differential privacy to deep neural networks;
+   - [x]     participated in study group #sg_applied_dl virtual discussion from 3:30pm on Slack;
+   - [x]     worked on the chatbot application;
+   - [x]     started reading book **"PyTorch A Problem-Solution Approach" by Pradeepta Mishra**.
+   - [x]     Link to Slack post:
                    
                    https://github.com/reallygooday/60daysofudacity/blob/master/day_12.pdf
 
 ____
 - **Day :one::three: July 10th, Wednesday**: 
-   - [x] :smiley:    watched Lesson 7 'Federated Learning',   
-   - [x] :smiley:    learned about FL, a method for preserving data privacy by training models where the data lives,
-   - [x] :smiley:    worked on Kaggle Dog Identification project, 
-   - [x] :smiley:    encouraged @Ricardo Felipe Redin @Eric Ndirangu @Ahmad Waly @Y.Leonce Eyog  @PJha to share the progress on learning and @Marcos Junior @Fitsum Ayalew to take up the challenge.
+   - [x]     watched Lesson 7 'Federated Learning',   
+   - [x]     learned about FL, a method for preserving data privacy by training models where the data lives,
+   - [x]     worked on Kaggle Dog Identification project, 
+   - [x]     encouraged @Ricardo Felipe Redin @Eric Ndirangu @Ahmad Waly @Y.Leonce Eyog  @PJha to share the progress on learning and @Marcos Junior @Fitsum Ayalew to take up the challenge.
 
 ____
 - **Day :one::four: July 11, Thursday**: 
-   - [x] :smiley:    watched Lesson 8 'Securing Federated Learning',   
-   - [x] :smiley:    learned about secure models trained using Federated Learning with multi-party computation,
-   - [x] :smiley:    continued working on Kaggle Dog Breed Identification project, 
-   - [x] :smiley:    encouraged @hammedb @Aakanksha Dhurandhar @Idan Benaun to share the learning progress.
+   - [x]     watched Lesson 8 'Securing Federated Learning',   
+   - [x]     learned about secure models trained using Federated Learning with multi-party computation,
+   - [x]     continued working on Kaggle Dog Breed Identification project, 
+   - [x]     encouraged @hammedb @Aakanksha Dhurandhar @Idan Benaun to share the learning progress.
 ____
 
 - **Day :one::five: July 12, Friday**: 
 
-  - [x] :smiley:    watched Lesson 9 'Encrypted Deep Learning',   
-  - [x] :smiley:    learned how to perform encrypted computation, builded on encrypted database, and generated an encrypted prediction   with an encrypted neural network on an encrypted dataset,
-  - [x] :smiley:     continued working on Kaggle Dog Breed Identification. 
-  - [x] :smiley:     encouraged @Pablo Carmona - Zuluaga @hammedb @Idan Benaun @Idan Benaun @uday.kiran @Yanbin Zhang @Temitope Oladokun @Rabin Banjade @Elif Yalı @R Aishwarya @Elif Yalı @Waad Gamal Shehabeldin @qayyumb to share the learning progress. Time, when it left to itself, cannot be trusted to move at any pace.
+  - [x]     watched Lesson 9 'Encrypted Deep Learning',   
+  - [x]     learned how to perform encrypted computation, builded on encrypted database, and generated an encrypted prediction   with an encrypted neural network on an encrypted dataset,
+  - [x]     continued working on Kaggle Dog Breed Identification. 
+  - [x]     encouraged @Pablo Carmona - Zuluaga @hammedb @Idan Benaun @Idan Benaun @uday.kiran @Yanbin Zhang @Temitope Oladokun @Rabin Banjade @Elif Yalı @R Aishwarya @Elif Yalı @Waad Gamal Shehabeldin @qayyumb to share the learning progress. Time, when it left to itself, cannot be trusted to move at any pace.
 ____
 
 - **Day :one::six: July 13, Saturday**: 
