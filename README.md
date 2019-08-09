@@ -54,7 +54,7 @@ ____
    - [x]    link to the article:
    
                     https://towardsdatascience.com/why-you-should-forget-for-loop-for-data-science-code-and-embrace-vectorization-696632622d5f   
-    - [x] :smiley:   The Thing To Remember: Vectorize Your Code to speed up, to get results faster !
+    - [x]   The Thing To Remember: Vectorize Your Code to speed up, to get results faster !
  ____
 
 - **Day :four: July 1th, Monday**: 
@@ -509,7 +509,7 @@ ____
   - [x] Investigated, worked on correcting the following errors:
 import error in coded implementation of encrypted training with PySyft’,
 index error in coded implementation of text generator with character level RNN.  
-  - [x] Encouraged  the following wonderful scholars  @Jeremiah Kamama, @Tasmiyah Qazi @Chetto13 @Wamaitha @Eko Edita Limanta @Rachesh @Hung @Noom Chanthadit @Ujjwal @ibasly @Octavio @Pooja Vinod to push the limits of own superpower. :smile: (edited) 
+  - [x] Encouraged  the following wonderful scholars  @Jeremiah Kamama, @Tasmiyah Qazi @Chetto13 @Wamaitha @Eko Edita Limanta @Rachesh @Hung @Noom Chanthadit @Ujjwal @ibasly @Octavio @Pooja Vinod to push the limits of own superpower. 
   - [x] Link to Slack post:
   
                https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565118650143600
