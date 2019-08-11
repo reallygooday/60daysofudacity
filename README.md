@@ -531,11 +531,36 @@ ____
   - [x] Link to Slack post:
   
                https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565304435463700               
-    ____ 
+____ 
+    
 - **Day :four::three: August 9, Friday**: 
+  - [x] read the following research paper : "Representation Learning with Contrastive Predictive Coding"  about unsupervised learning approach of extracting representations from data, the proposed approach can be used in speech, images, text and reinforcement learning.
+  - [x] Link to the research paper: 
+
+          https://arxiv.org/pdf/1807.03748.pdf  
+  
+  - [x] Encouraged the following amazing scholars @B V Pradeep @Lakshmi @kumarklc @AaronStone @sunnets @Dheemanth M D @Fabio Valerio Massoli @Gabor Soter to think about your Future Self and to make Future-Friendly choices, to smarten yourself up with the right balance of learning effort and progress.  
+  - [x] Link to Slack post:
+  
+         https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565391347473400
+____
+- **Day :four::four: August 10, Saturday**: 
+  - [x] connected a Postgres database running on Panoply to Jupyter Notebook;
+analysed PostgresData in Jupyter Notebook.  
+  - [x] 
+  - [x] Link to Slack post:
+        
+          https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565477346469100
+____    
+- **Day :four::five: August 11, Sunday**: 
   - [x] 
   - [x] Encouraged  the following wonderful scholars   
   - [x] Link to Slack post:
   
-               
+____
+- **Day :four::six: August 12, Monday**: 
+  - [x] 
+  - [x] Encouraged  the following wonderful scholars   
+  - [x] Link to Slack post:
+           
                      
