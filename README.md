@@ -546,21 +546,90 @@ ____
 ____
 - **Day :four::four: August 10, Saturday**: 
   - [x] connected a Postgres database running on Panoply to Jupyter Notebook;
-analysed PostgresData in Jupyter Notebook.  
-  - [x] 
+  - [x] analysed PostgresData in Jupyter Notebook.   
   - [x] Link to Slack post:
         
           https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565477346469100
 ____    
 - **Day :four::five: August 11, Sunday**: 
   - [x] 
-  - [x] Encouraged  the following wonderful scholars   
-  - [x] Link to Slack post:
+  - [x] Encouraged  the following wonderful scholars @Berenice,@Frida Rode, @Anita Goldpergel, @Abhimanyu Tiwary,@Dharmendra Choudhary  - [x] Link to Slack post:
   
 ____
 - **Day :four::six: August 12, Monday**: 
   - [x] 
   - [x] Encouraged  the following wonderful scholars   
   - [x] Link to Slack post:
-           
-                     
+  
+  
+____
+- **Day :four::seven: August 13, Tuesday**: 
+  - [x] 
+  - [x] Encouraged  the following wonderful scholars   
+  - [x] Link to Slack post:  
+
+____
+- **Day :four::eight: August 14, Wednesday**: 
+  - [x] 
+  - [x] Encouraged  the following wonderful scholars   
+  - [x] Link to Slack post:                    
+____
+- **Day :four::nine: August 15, Thursday**: 
+  - [x] 
+  - [x] Encouraged  the following wonderful scholars   
+  - [x] Link to Slack post:                    
+____
+- **Day :five::zero: August 16, Friday**: 
+  - [x] 
+  - [x] Encouraged  the following wonderful scholars   
+  - [x] Link to Slack post:                    
+____
+- **Day :five::one: August 17, Saturday**: 
+  - [x] 
+  - [x] Encouraged  the following wonderful scholars   
+  - [x] Link to Slack post:                    
+____
+- **Day :five::two: August 18, Sunday**: 
+  - [x] 
+  - [x] Encouraged  the following wonderful scholars   
+  - [x] Link to Slack post:                    
+____
+- **Day :five::three: August 19, Monday**: 
+  - [x] 
+  - [x] Encouraged  the following wonderful scholars   
+  - [x] Link to Slack post:      
+____
+- **Day :five::four: August 20, Tuesday**: 
+  - [x] 
+  - [x] Encouraged  the following wonderful scholars   
+  - [x] Link to Slack post:      
+____
+- **Day :five::five: August 21, Wednesday**: 
+  - [x] 
+  - [x] Encouraged  the following wonderful scholars   
+  - [x] Link to Slack post:   
+____
+- **Day :five::six: August 22, Thursday**: 
+  - [x] 
+  - [x] Encouraged  the following wonderful scholars   
+  - [x] Link to Slack post:  
+ ____
+- **Day :five::seven: August 23, Friday**: 
+  - [x] 
+  - [x] Encouraged  the following wonderful scholars   
+  - [x] Link to Slack post:   
+____
+- **Day :five::eight: August 24, Saturday**: 
+  - [x] 
+  - [x] Encouraged  the following wonderful scholars   
+  - [x] Link to Slack post:   
+____
+- **Day :five::nine: August 25, Sunday**: 
+  - [x] 
+  - [x] Encouraged  the following wonderful scholars   
+  - [x] Link to Slack post:      
+____
+- **Day :six::zero: August 26, Monday**: 
+  - [x] 
+  - [x] Encouraged  the following wonderful scholars   
+  - [x] Link to Slack post:     
