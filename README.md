@@ -569,67 +569,69 @@ ____
   - [x] Link to Slack post:  
 
 ____
-- **Day :four::eight: August 14, Wednesday**: 
+- **Day 48, August 14, Wednesday**: 
+  - [x] evised PATE Analysis and Differential Privacy for Deep Learning.   
+  - [x] Link to Slack post:   
+               
+                 https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565822002232800              
+  
+____
+- **Day 49, August 15, Thursday**: 
   - [x] 
   - [x] Encouraged  the following wonderful scholars   
   - [x] Link to Slack post:                    
 ____
-- **Day :four::nine: August 15, Thursday**: 
+- **Day 50, August 16, Friday**: 
   - [x] 
   - [x] Encouraged  the following wonderful scholars   
   - [x] Link to Slack post:                    
 ____
-- **Day :five::zero: August 16, Friday**: 
+- **Day 51, August 17, Saturday**: 
   - [x] 
   - [x] Encouraged  the following wonderful scholars   
   - [x] Link to Slack post:                    
 ____
-- **Day :five::one: August 17, Saturday**: 
+- **Day 52, August 18, Sunday**: 
   - [x] 
   - [x] Encouraged  the following wonderful scholars   
   - [x] Link to Slack post:                    
 ____
-- **Day :five::two: August 18, Sunday**: 
-  - [x] 
-  - [x] Encouraged  the following wonderful scholars   
-  - [x] Link to Slack post:                    
-____
-- **Day :five::three: August 19, Monday**: 
+- **Day 53, August 19, Monday**: 
   - [x] 
   - [x] Encouraged  the following wonderful scholars   
   - [x] Link to Slack post:      
 ____
-- **Day :five::four: August 20, Tuesday**: 
+- **Day 54, August 20, Tuesday**: 
   - [x] 
   - [x] Encouraged  the following wonderful scholars   
   - [x] Link to Slack post:      
 ____
-- **Day :five::five: August 21, Wednesday**: 
+- **Day 55, August 21, Wednesday**: 
   - [x] 
   - [x] Encouraged  the following wonderful scholars   
   - [x] Link to Slack post:   
 ____
-- **Day :five::six: August 22, Thursday**: 
+- **Day 56, August 22, Thursday**: 
   - [x] 
   - [x] Encouraged  the following wonderful scholars   
   - [x] Link to Slack post:  
  ____
-- **Day :five::seven: August 23, Friday**: 
+- **Day 57, August 23, Friday**: 
   - [x] 
   - [x] Encouraged  the following wonderful scholars   
   - [x] Link to Slack post:   
 ____
-- **Day :five::eight: August 24, Saturday**: 
+- **Day 58, August 24, Saturday**: 
   - [x] 
   - [x] Encouraged  the following wonderful scholars   
   - [x] Link to Slack post:   
 ____
-- **Day :five::nine: August 25, Sunday**: 
+- **Day 59 August 25, Sunday**: 
   - [x] 
   - [x] Encouraged  the following wonderful scholars   
   - [x] Link to Slack post:      
 ____
-- **Day :six::zero: August 26, Monday**: 
+- **Day 60, August 26, Monday**: 
   - [x] 
   - [x] Encouraged  the following wonderful scholars   
   - [x] Link to Slack post:     
