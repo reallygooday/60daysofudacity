@@ -533,7 +533,7 @@ ____
                https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565304435463700               
 ____ 
     
-- **Day :four::three: August 9, Friday**: 
+- **Day 43, August 9, Friday**: 
   - [x] read the following research paper : "Representation Learning with Contrastive Predictive Coding"  about unsupervised learning approach of extracting representations from data, the proposed approach can be used in speech, images, text and reinforcement learning.
   - [x] Link to the research paper: 
 
@@ -544,36 +544,41 @@ ____
   
          https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565391347473400
 ____
-- **Day :four::four: August 10, Saturday**: 
+- **Day 44, August 10, Saturday**: 
   - [x] connected a Postgres database running on Panoply to Jupyter Notebook;
   - [x] analysed PostgresData in Jupyter Notebook.   
   - [x] Link to Slack post:
         
           https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565477346469100
 ____    
-- **Day :four::five: August 11, Sunday**: 
-  - [x] 
-  - [x] Encouraged  the following wonderful scholars @Berenice,@Frida Rode, @Anita Goldpergel, @Abhimanyu Tiwary,@Dharmendra Choudhary  - [x] Link to Slack post:
-  
-____
-- **Day :four::six: August 12, Monday**: 
-  - [x] 
-  - [x] Encouraged  the following wonderful scholars   
+- **Day 45, August 11, Sunday**: 
+  - [x]  experimented coding threading Lock for Parallel Processing.  
+  - [x] Encourage the following well known Udacians @Abhimanyu @Berenice @Sankalp Dayal @Evi @Frida @Anita Goldpergel @Dharmendra Choudhary @Cristina Zapata @Sejas @Ahmed Thabit. Nothing worthwhile is ever achieved without the consistent effort. True greatness only comes to those willing to do the routine, daily work. Forgive me for the stating the obvious, you're doing a fantastic job sharing the memorable experiences every day !  
   - [x] Link to Slack post:
   
+                   https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565563557002600  
+____
+- **Day 46, August 12, Monday**: 
+  - [x] learned about recursion, recursive algorithms and the time complexity of linked list operations.  
+  - [x] Encouraged  the following wonderful scholars @zack @xworow @Çağatay Onur Şengör @Vebby @Baran Berkay Barakçin @Nana Aba T @Mahitej to share daily updates, knowledge and ideas.  
+  - [x] Link to Slack post:
+         
+                   https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565649865430800 
   
 ____
-- **Day :four::seven: August 13, Tuesday**: 
-  - [x] 
-  - [x] Encouraged  the following wonderful scholars   
+- **Day 47, August 13, Tuesday**: 
+  - [x] worked on federated learning with encrypted gradient aggregation.  
+  - [x] Encouraged  the following wonderful scholars @R Aishwarya @Hafsa Sam @Daibin Raju @Fabrice @medhagupta098 @Nabilah Hannani to share your learning progress.   
   - [x] Link to Slack post:  
-
+  
+                   https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565736159316600
+                 
 ____
 - **Day 48, August 14, Wednesday**: 
-  - [x] evised PATE Analysis and Differential Privacy for Deep Learning.   
+  - [x] revised PATE Analysis and Differential Privacy for Deep Learning.   
   - [x] Link to Slack post:   
                
-                 https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565822002232800              
+                   https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565822002232800              
   
 ____
 - **Day 49, August 15, Thursday**: 
