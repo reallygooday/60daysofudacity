@@ -593,8 +593,14 @@ ____
 ____
 - **Day 51, August 17, Saturday**: 
   - [x] 
-  - [x] Encouraged  the following wonderful scholars   
-  - [x] Link to Slack post:                    
+  
+  Day 51:
+- [x] experimented using Recursion and Advanced Data Structures (Linked Lists and Hash Tables);
+- [x] experimented using cryptographic hash function to detect data corruption errors and verify data integrity (http://blog.chapagain.com.np/cryptography-verify-file-integrity-with-md5-hash-checksum/).
+- [x] encouraged the following great scholars @birozso @xworow @Noom Chanthadit @Vaishnav Potlapalli @Rabin Banjade @Naveen Tadala @Mahitej @Nana Aba T and invited to share takeaways from what you learned.  
+- [x] Link to Slack post:        
+  
+                          https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566043025313000
 ____
 - **Day 52, August 18, Sunday**: 
   - [x] 
