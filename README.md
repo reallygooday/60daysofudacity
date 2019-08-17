@@ -17,7 +17,7 @@ ____
 
 ## ***I'm Super Excited, Let's Get Started***
 
-- **Day :one:  June 28th, Friday**: 
+- **Day 1,  June 28th, Friday**: 
    - [x] Prioritising & Planning 
 
         Secure and Private AI Challenge content summary:
@@ -37,7 +37,7 @@ ____
           
 ____
 
-- **Day :two: June 29th, Saturday**: Gaining intuitive understanding about the basics of Neural Networks:
+- **Day 2, June 29th, Saturday**: Gaining intuitive understanding about the basics of Neural Networks:
    - [x]    First Takeaway --> the term 'Logistic Regression' represents a small Neural Network and learning algorithm for Binary Classification Problem;
    - [x]    Second Takeaway --> the loss function of Logistic Regression computes the error for a single training example,
    the cost function of Logistic Regression is the average of the loss function of the entire training set);
@@ -46,7 +46,7 @@ ____
    in which we compute output of Neural Networks, followed by a backward pass (or a back propagation step), which we use to compute gradients or derivatives.
 ____
 
-- **Day :three: June 30th, Sunday**: 
+- **Day 3, June 30th, Sunday**: 
    - [x]    doing the programming exercises;
    - [x]    learning about vectorization, re-writting explicit 'for' loops;
    - [x]    non-vectorize, looped code takes much longer than vectorize code;
@@ -57,7 +57,7 @@ ____
     - [x]   The Thing To Remember: Vectorize Your Code to speed up, to get results faster !
  ____
 
-- **Day :four: July 1th, Monday**: 
+- **Day 4, July 1th, Monday**: 
    - [x]    read the article **'Broadcasting with PyTorch'**;
    - [x]    I allude briefly to the main points, Rules of Broadcasting -->
         - Rule 0: Each tensor has at least one dimension(trivial)
@@ -71,7 +71,7 @@ ____
 
  ____
 
-- **Day :five: July 2th, Tuesday**: learned:
+- **Day 5, July 2th, Tuesday**: learned:
    - [x]     how to authenticate Google Colab access to Google Drive and mount Google Drive
    
                                   from google.colab import drive
@@ -84,7 +84,7 @@ ____
                                   https://medium.com/@ml_kid/how-to-save-our-model-to-google-drive-and-reuse-it-2c1028058cb2 
 ____
 
-- **Day :six: July 3th, Wednesday**: 
+- **Day 6, July 3th, Wednesday**: 
    - [x]     worked on Credit Risk project using Logistic Regression Model,
    - [x]     link to the project:
                      
@@ -107,26 +107,26 @@ ____
                     - Deploying PyTorch Models.
 ____
 
-- **Day :seven: July 4th, Thursday**: 
+- **Day 7, July 4th, Thursday**: 
    - [x]     watched Lesson 2 'Deep Learning with PyTorch',
    - [x]     learned about Network Architectures, how to accelerate network computations using a GPU, how to implement Softmax.
 
 ____
 
-- **Day :eight: July 5th, Friday**: 
+- **Day 8, July 5th, Friday**: 
   
    - [x]     watched Lesson 3 'Introducing Differential Privacy',
    - [x]     learned about basics of differential privacy, a method for measuring how operations impact the privacy of data.
  
 ____
 
-- **Day :nine: July 6th, Saturday**: 
+- **Day 9, July 6th, Saturday**: 
    - [x]     watched Lesson 4 'Evaluating Privacy of a Function',   
    - [x]     implemented differential privacy.
   
 ____
 
-- **Day :one::zero: July 7th, Sunday**: 
+- **Day 10, July 7th, Sunday**: 
 
    - [x]     watched Lesson 5 'Introducing Local and Global Differential Privacy',   
    - [x]     learned how to apply differential privacy to arbitrary algorithms by adding noise to the outputs,
@@ -142,7 +142,7 @@ ____
                   
 ____
 
-- **Day :one::one: July 8th, Monday**:  
+- **Day 11, July 8th, Monday**:  
      - It took 1 hour to train a basic deep learning chatbot model on my laptop. Then I moved the model to Colaboratory (Colab, Google free Cloud service), adjusted settings, selected GPU as Hardware accelerator, mounted my Google Drive, downloaded the dataset (corpus) directly to Google Drive via Google Colab. It took a few minutes to run the whole model with Colab. Nothing gets me moving like a completed task.
      
       - Link to GitHub Jupyter Notebook: 
@@ -155,7 +155,7 @@ ____
       
   ![alt text](/image/bot3.png)
 ____
-- **Day :one::two: July 9th, Tuesday**: 
+- **Day 12, July 9th, Tuesday**: 
    - [x]     watched Lesson 6 'Differential Privacy for Deep Learning';  
    - [x]     learned how to apply differential privacy to deep neural networks;
    - [x]     participated in study group #sg_applied_dl virtual discussion from 3:30pm on Slack;
@@ -166,21 +166,21 @@ ____
                    https://github.com/reallygooday/60daysofudacity/blob/master/day_12.pdf
 
 ____
-- **Day :one::three: July 10th, Wednesday**: 
+- **Day 13, July 10th, Wednesday**: 
    - [x]     watched Lesson 7 'Federated Learning',   
    - [x]     learned about FL, a method for preserving data privacy by training models where the data lives,
    - [x]     worked on Kaggle Dog Identification project, 
    - [x]     encouraged @Ricardo Felipe Redin @Eric Ndirangu @Ahmad Waly @Y.Leonce Eyog  @PJha to share the progress on learning and @Marcos Junior @Fitsum Ayalew to take up the challenge.
 
 ____
-- **Day :one::four: July 11, Thursday**: 
+- **Day 14, July 11, Thursday**: 
    - [x]     watched Lesson 8 'Securing Federated Learning',   
    - [x]     learned about secure models trained using Federated Learning with multi-party computation,
    - [x]     continued working on Kaggle Dog Breed Identification project, 
    - [x]     encouraged @hammedb @Aakanksha Dhurandhar @Idan Benaun to share the learning progress.
 ____
 
-- **Day :one::five: July 12, Friday**: 
+- **Day 15, July 12, Friday**: 
 
   - [x]     watched Lesson 9 'Encrypted Deep Learning',   
   - [x]     learned how to perform encrypted computation, builded on encrypted database, and generated an encrypted prediction   with an encrypted neural network on an encrypted dataset,
@@ -188,16 +188,16 @@ ____
   - [x]     encouraged @Pablo Carmona - Zuluaga @hammedb @Idan Benaun @Idan Benaun @uday.kiran @Yanbin Zhang @Temitope Oladokun @Rabin Banjade @Elif Yalı @R Aishwarya @Elif Yalı @Waad Gamal Shehabeldin @qayyumb to share the learning progress. Time, when it left to itself, cannot be trusted to move at any pace.
 ____
 
-- **Day :one::six: July 13, Saturday**: 
+- **Day 16, July 13, Saturday**: 
     - Continued working on Dog Breed Identification project. 
     - Encouraged @Lakshay Wadhwa @K3NNi @J.D.V.P.REDDY  @Hachiman @Gabor Soter @Fabio @Daibin Raju @Waad Gamal Shehabeldin @R Aishwarya @medhagupta098 @falconArrow @hammedb @Vaibhav @Claudia  Hill @Xiaolei Zhang @Yanbin Zhang.
 ____
 
-- **Day :one::seven: July 14, Sunday**: 
+- **Day 17, July 14, Sunday**: 
     - Continued working on Dog Breed Identification project
 ____
 
-- **Day :one::eight: July 15, Monday**: 
+- **Day 18, July 15, Monday**: 
     - Registered for **AWS Online Conference** on the 18th July to learn how to deploy a basic deep learning model on cloud; 
     - Encoraged @ Marcos Junior to take up challenge; 
     - Continued working on Dog Breed Identification project on Kaggle (got stuck with Value Error) 
@@ -209,14 +209,14 @@ ____
 ____
 
 
-- **Day :one::nine: July 16, Tuesday**: 
+- **Day 19, July 16, Tuesday**: 
     - Read book **"PyTorch Recipes" by Pradeepta Mishra**.
 
    ![alt text](/image/mishra.png)
 
 ____
 
-- **Day :two::zero: July 17, Wednesday**: 
+- **Day 20, July 17, Wednesday**: 
    - Read book **"Deep Learning with PyTorch" by Vishnu Subramanian**;
    - Registered for AWS DeepRacer Challenge with Udacity.
   
@@ -224,7 +224,7 @@ ____
  
 _______
 
-- **Day :two::one: July 18, Thursday**: 
+- **Day 21, July 18, Thursday**: 
     - Attended/ watched **the AWS Innovate Conference** online to learn about PyTorch inference with Amazon SageMaker.
 
     - Link to the presentation file: 
@@ -237,7 +237,7 @@ _______
     
 _______
 
-- **Day :two::two: July 19, Friday**: 
+- **Day 22, July 19, Friday**: 
     - Read the book **"Deep Learning with PyTorch" by Vishu Subramanian**.
 
     - Link to Slack post: 
@@ -247,7 +247,7 @@ _______
     ![alt text](/image/vishnu2.png)   
 ____
 
-- **Day :two::three: July 20, Saturday**: 
+- **Day 23, July 20, Saturday**: 
     - Keep on reading the book **"Python Data Analytics" Fabio Nelli**.
     - Encouraged @Qazi Rameez Bin Naeem @Ahmad Waly @Eben O @Reem Qais @Tasmiyah Qazi @Elif Yalı@Ugesh S @hamzzy @Temitope Oladokun        @Pablo @R Aishwarya @Saleeta Qadir@Daibin Raju @Fabian Schimpf @Gaurav Yadav @Heather Allen @Jacqueline @hamzzy@Jeremiah Kamama @karthik s @Lakshya Mutneja @Cristina Zapata @Jia Xia @Christian I. Muñoz @Vaishnav Potlapalli @Bharat Bhushan Mishra @Nada Hammad   @Superuser@Udolf to share your learning adventure and progress.
     
@@ -258,7 +258,7 @@ ____
      ![alt text](/image/fabio.png)
 ____
 
-- **Day :two::four: July 21, Sunday**:  
+- **Day 24, July 21, Sunday**:  
     - Reading the book **"Python Deep Learning" (exploring deep learning techniques and neural network architectures   with PyTorch)
     by Ivan Vasilev, Daniel Slater, Gianmario Spacagna, Peter Roelants, Valentino Zocca**.
   
@@ -273,7 +273,7 @@ ____
  
  ____
 
-- **Day :two::five: July 22, Monday**:     
+- **Day 25, July 22, Monday**:     
     - Getting comfortable coding and making predictions with a basic PyTorch Linear Model. 
 
     - Link to Colab Jupyter Notebook:
@@ -290,7 +290,7 @@ ____
     
           https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563809544107500    
 ____
-- **Day :two::six: July 23, Tuesday**:  
+- **Day 26, July 23, Tuesday**:  
     - Trained a linear model to fit training data using gradient descent. 
     
     - Link to GitHub Jupyter Notebook: 
@@ -310,7 +310,7 @@ ____
     ![alt text](/image/lr.png)
 ____
 
-- **Day :two::seven: July 24, Wednesday**:  
+- **Day 27, July 24, Wednesday**:  
 
     :heavy_check_mark: Started reading book **"Python Data Science Essentials " by Alberto Boschetti and Luca Massaron**;
     
@@ -328,7 +328,7 @@ ____
       
 ____
 
-- **Day :two::eight: July 25, Thursday**: 
+- **Day 28, July 25, Thursday**: 
 
     :heavy_check_mark:Getting comfortable building a basic image classification;    
     
@@ -344,7 +344,7 @@ ____
      
 ____
 
-- **Day :two::nine: July 26, Friday**:  
+- **Day 29, July 26, Friday**:  
 
     - Read article **“How to Use Deep Learning to Write Shakespeare”** 
     
@@ -359,7 +359,7 @@ ____
              https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564182392005300
 ____
 
-- **Day :three::zero: July 27, Saturday**:  
+- **Day 30, July 27, Saturday**:  
 
    - Experimented with **Style Transfer**, stylised photos with neural networks using PyTorch.
    
@@ -378,7 +378,7 @@ ____
      
      ![alt text](/image/monet.png)
 ____     
-- **Day :three::one: July 28, Sunday**: 
+- **Day 31, July 28, Sunday**: 
    - [x] Experimented with Image Classifier.
    - [x] Link to Github Jupyter Notebook: Image Classifier : 
      - https://github.com/reallygooday/60daysofudacity/blob/master/Image_Classifier.ipynb   
@@ -389,7 +389,7 @@ ____
    
 ____
 
-- **Day :three::two: July 29, Monday**: 
+- **Day 32, July 29, Monday**: 
 
    - [x] Experimented building **Text Generation** with PyTorch using the book "Oliver Twist" by Charles Dickens.   
    
@@ -408,7 +408,7 @@ ____
       ![alt text](/image/oliver.png)   
 ____
 
-- **Day :three::three: July 30, Tuesday**:  
+- **Day 33, July 30, Tuesday**:  
 
    - [x] Experimented building Story Generator with PyTorch using the story **"A Clean, Well-Lighted Place" by Earnest Hemingway**.  
    
@@ -425,7 +425,7 @@ ____
    
 ____
 
-- **Day :three::four: July 31, Wednesday**:  
+- **Day 34, July 31, Wednesday**:  
 
    - [x]  Restyled images with Neural Network using personal photos as content.     
    - [x]  Submitted the restyled images for **Project T-Shirt**.
@@ -444,7 +444,7 @@ ____
            
 ___
 
-- **Day :three::five: August 1, Thursday**: 
+- **Day 35, August 1, Thursday**: 
 
    - [x] Started Cloud Qwiklabs and deeplearning.ai courses; I'm interested in Kubernetes in the Google Cloud.
   
@@ -455,7 +455,7 @@ ___
    
 ____
 
-- **Day :three::six: August 2, Friday**:  
+- **Day 36, August 2, Friday**:  
    - [x] Revised Differential Privacy Lessons, building a private database.   
    - [x] Link to Slack post: 
    
@@ -463,7 +463,7 @@ ____
            
 ____
   
-- **Day :three::seven: August 3, Saturday**:  
+- **Day 37, August 3, Saturday**:  
   - [x]  :blue_car: Started with AWS DeepRacer and the AWS platform training autonomous racer using reinforcement learning. 
   - [x]  :books: Read the book “Differential Privacy and Applications” by Tianging Zhu, Gang Li, Wanlei Zhou, Philip S.Yu  
   - [x]  :slightly_smiling_face:  Encouraged @Maria Medina @Nada Hammad @birozso @Vaishnav Potlapalli @Çağatay Onur Şengör @Xiaolei Zhang @Zain Sarwar @Lakshya Mutneja @Xenofon Karamanos @Jeremiah Kamama at all times, particularly in times of uncertainty, to try your absolute hardest to keep going forward learning about Private AI and to go 'all-in'. Wishing you loots of Deep Learning fun ! Happy times to you all !  
@@ -478,7 +478,7 @@ ____
     ![alt text](/image/reward.png)  
 ____
 
-- **Day :three::eight: August 4, Sunday**: 
+- **Day 38, August 4, Sunday**: 
   - [x] worked on programming exercises related to Broadcasting with PyTorch and Vectorisation. 
   - [x] Link to Slack post:
   
@@ -487,7 +487,7 @@ ____
   
 ____
 
-- **Day :three::nine: August 5, Monday**: 
+- **Day 39, August 5, Monday**: 
   - [x] read the paper about MSG-Net; link to the paper:
   
               https://github.com/reallygooday/60daysofudacity/blob/master/academic%20paper/Zhang_Multi-style_Generative_Network_for_Real-time_Transfer_ECCVW_2018_paper.pdf  
@@ -505,7 +505,7 @@ ____
            
       ![alt text](/image/family.png)   
 ____ 
-- **Day :four::zero: August 6, Tuesday**: 
+- **Day 40, August 6, Tuesday**: 
   - [x] Investigated, worked on correcting the following errors:
 import error in coded implementation of encrypted training with PySyft’,
 index error in coded implementation of text generator with character level RNN.  
