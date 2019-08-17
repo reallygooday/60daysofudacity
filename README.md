@@ -515,7 +515,7 @@ index error in coded implementation of text generator with character level RNN.
                https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565118650143600
 
 ____ 
-- **Day :four::one: August 7, Wednesday**: 
+- **Day 41, August 7, Wednesday**: 
   - [x] getting back to basics, continued coding activities using tutorials for beginners in PySyft
 (https://github.com/OpenMined/PySyft/tree/dev/examples/tutorials).  
   - [x] Encouraged the following amazing scholars @xworow @Caitlyn Singam @Vaibhav Sachdeva @bhavz @Noom Chanthadit @Mahi @Larissa de Moura @Jia Xia @medhagupta098 to act one step ahead in learning.  
@@ -524,7 +524,7 @@ ____
                https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565214285386900               
                
 ____ 
-- **Day :four::two: August 8, Thursday**: 
+- **Day 42, August 8, Thursday**: 
   - [x] continued learning about RNN (both GRU and LSTM) from Coursera - specific types of RNN architecture with sequence data (many-to-one, many-to many, one-to-many);  
   - [x] participated in #jobs channel activity Resume Evaluation.
   - [x] Encouraged @Vaibhav @Nachiket @Fahad Farooq @Hafsa Sam @Aim  
@@ -582,22 +582,31 @@ ____
   
 ____
 - **Day 49, August 15, Thursday**: 
-  - [x] 
-  - [x] Encouraged  the following wonderful scholars   
-  - [x] Link to Slack post:                    
+  - [x] revised Differential Privacy (Implementing Local Differential Privacy, Varying the Amount of Noise, Creating a Differentially           Private Query);
+  - [x] read research paper "Selective Classification for Deep Neural Network" by Yonatan Geifman, Ran El-Yaniv; in this paper, a method         to construct a selective classifier given a trained neural network, is proposed; Selective Prediction is a subfield of Machine           Learning dealing with the ability to know what you don't know, which can make you smarter;
+        link to the paper: 
+        
+        https://papers.nips.cc/paper/7073-selective-classification-for-deep-neural-networks.pdf.
+  
+  - [x] Encouraged  the following wonderful scholars @Zain Sarwar @Jia Xia @Caitlyn Singam @Vebby @bhavz @Thor @Jacqueline @Jeremiah             Kamama @Lala @Mahak Bansal @B V Pradeep @Oge @ibasly @Ujjwal @Yanbin Zhang @Noom Chanthadit @Rabin Banjade @rajeman @Wamaitha           @Qazi Rameez Bin Naeem .  
+  
+  - [x] Link to Slack post:  
+  
+          https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565909540141900  
 ____
 - **Day 50, August 16, Friday**: 
-  - [x] 
-  - [x] Encouraged  the following wonderful scholars   
-  - [x] Link to Slack post:                    
+  - [x] worked on the Text Generator project.   
+  - [x] Link to Slack post:        
+  
+           https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565987525407100 
 ____
 - **Day 51, August 17, Saturday**: 
-  - [x] 
-  
-  Day 51:
 - [x] experimented using Recursion and Advanced Data Structures (Linked Lists and Hash Tables);
-- [x] experimented using cryptographic hash function to detect data corruption errors and verify data integrity (http://blog.chapagain.com.np/cryptography-verify-file-integrity-with-md5-hash-checksum/).
-- [x] encouraged the following great scholars @birozso @xworow @Noom Chanthadit @Vaishnav Potlapalli @Rabin Banjade @Naveen Tadala @Mahitej @Nana Aba T and invited to share takeaways from what you learned.  
+- [x] experimented using cryptographic hash function to detect data corruption errors and verify data integrity  
+
+           (http://blog.chapagain.com.np/cryptography-verify-file-integrity-with-md5-hash-checksum/).
+           
+- [x] encouraged the following great scholars @birozso @xworow @Noom Chanthadit @Vaishnav Potlapalli @Rabin Banjade @Naveen Tadala @Mahitej @Nana Aba T and invited to share takeaways from what they learned.  
 - [x] Link to Slack post:        
   
                           https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566043025313000
