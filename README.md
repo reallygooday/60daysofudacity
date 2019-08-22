@@ -632,9 +632,21 @@ ____
   - [x] Link to Slack post:   
 ____
 - **Day 56, August 22, Thursday**: 
-  - [x] 
-  - [x] Encouraged  the following wonderful scholars   
+  - [x] read about No Free Lunch Theorem in Machine Learning (the theorem implies that a model that explains a certain situation well           may fail in another situation);
+  - [x] read paper [18/04/2019] Vahan presents: Vyas, A., Jammalamadaka, N., Zhu, X., Das, D., Kaul, B., & Willke, T. L. (2018). Out-of-distribution detection using an ensemble of self supervised leave-out classifiers. In Proceedings of the European Conference on Computer Vision (ECCV) (pp. 550-564)
+  - [x] link to the paper
+              
+              http://openaccess.thecvf.com/content_ECCV_2018/papers/Apoorv_Vyas_Out-of-Distribution_Detection_Using_ECCV_2018_paper.pdf
+
+
+  - [x] in this paper, the authors proposed an out-of-distribution detection method  for deep neural networks and demonstrated its               performance across several out-of-distribution classification tasks on the deep neural networks such as DenseNet[8] and Wide             ResNet(WRN).  
+  - [x] Encouraged the following amazing scholars @Reem Qais @Waad Gamal Shehabeldin @Eko Edita Limanta @Qazi Rameez Bin Naeem @Rachesh         @Nana Aba T @Y. Leonce Eyog @uday.kiran @Idan Benaun @Eben O @Pablo Carmona - Zuluaga @R Aishwarya @Fabian Schimpf @Daibin Raju         @Fabliha Fairooz @medhagupta098 @Hung @AaronStone @bhavz @bhavz @Laura W to share your daily digest of learning activities with         others. 
+  
   - [x] Link to Slack post:  
+  
+             https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566512206458500  
+  
+  
  ____
 - **Day 57, August 23, Friday**: 
   - [x] 
