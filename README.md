@@ -627,9 +627,13 @@ ____
   - [x] Link to Slack post:      
 ____
 - **Day 55, August 21, Wednesday**: 
-  - [x] 
-  - [x] Encouraged  the following wonderful scholars   
+  - [x] read paper --> [18/07/2019] Gary presents: Zhang, G., Wang, C., Xu, B., & Grosse, R. (2018). Three mechanisms of weight decay regularization. arXiv preprint arXiv:1810.12281;
+  - [x] link to the paper:
+  
+                https://openreview.net/pdf?id=B1lz-3Rct7  
   - [x] Link to Slack post:   
+  
+                https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566424894430300  
 ____
 - **Day 56, August 22, Thursday**: 
   - [x] read about No Free Lunch Theorem in Machine Learning (the theorem implies that a model that explains a certain situation well           may fail in another situation);
