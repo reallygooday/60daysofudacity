@@ -612,19 +612,38 @@ ____
                           https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566043025313000
 ____
 - **Day 52, August 18, Sunday**: 
-  - [x] 
-  - [x] Encouraged  the following wonderful scholars   
-  - [x] Link to Slack post:                    
+  - [x] read research paper "Deep Convolutional Neural Networks for Sentiment Analysis
+of Short Text"
+  - [x] link to the paper:
+  
+                         https://www.aclweb.org/anthology/C14-1008 ;
+  - [x] the main takeaways of the paper are - the idea of using CNN to extract from character-to sentence-level features and the                 demonstration that a feed-forward NN architecture can be as effective as RNTN for sentiment analysis of sentences.  
+
+
+  - [x] Encouraged  the following wonderful scholars  @Reem Qais @Waad Gamal Shehabeldin @Eko Edita Limanta @Qazi Rameez Bin Naeem               @Rachesh @Nana Aba T @Y. Leonce Eyog @uday.kiran @Idan Benaun @Eben O @Pablo Carmona - Zuluaga @R Aishwarya @Fabian Schimpf             @Daibin Raju @Fabliha Fairooz @medhagupta098 @Hung @AaronStone @bhavz @bhavz @Laura W .
+  
+  - [x] Link to Slack post:    
+  
+                       https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566148484356900 
 ____
 - **Day 53, August 19, Monday**: 
-  - [x] 
-  - [x] Encouraged  the following wonderful scholars   
+  - [x] read paper "Simplifying Graph Convolutional Networks";
+  - [x] link to the paper:
+  
+                         https://arxiv.org/pdf/1902.07153.pdf. 
   - [x] Link to Slack post:      
+  
+                         https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566236184191600 
 ____
 - **Day 54, August 20, Tuesday**: 
-  - [x] 
-  - [x] Encouraged  the following wonderful scholars   
-  - [x] Link to Slack post:      
+  - [x] read paper Frankle, J., & Carbin, M. (2018). The lottery ticket hypothesis: Finding sparse, trainable neural networks. arXiv preprint arXiv:1803.03635;
+  
+  - [x] link to the paper:
+  
+                https://arxiv.org/pdf/1803.03635.pdf  
+  - [x] Link to Slack post:  
+  
+                https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566336315269300  
 ____
 - **Day 55, August 21, Wednesday**: 
   - [x] read paper --> [18/07/2019] Gary presents: Zhang, G., Wang, C., Xu, B., & Grosse, R. (2018). Three mechanisms of weight decay regularization. arXiv preprint arXiv:1810.12281;
