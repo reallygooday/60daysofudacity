@@ -672,9 +672,15 @@ ____
   
  ____
 - **Day 57, August 23, Friday**: 
-  - [x] 
-  - [x] Encouraged  the following wonderful scholars   
+  - [x] daily digest: learned about empirical and theoretical probabilities, the fundamental probability rules and how to solve complex probability problems using special counting techniques like permutations and combinations;
+  - [x] takeaway: permutations are for lists (order matters) and combinations are for groups (order doesn't matter);
+  - [x] example: there are 10,000 possible permutations for a 4-digit PIN code (there are 10,000 digit arrangements where the order of the digits matters);
+  - [x] joke: a "combination lock" should really be called a "permutation lock".  
+  - [x] Encouraged  the following wonderful scholars @hamzzy @Quan @Olivia Wais @Chetto13 @Rachel Beldner @T @Saleeta Qadir @Youmna             Ebrahim @Ujjwal @Ibrahim Salihu Yusuf @Peagol @Pava to get the most out of your learning. 
+  
   - [x] Link to Slack post:   
+  
+                   https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566524610070500  
 ____
 - **Day 58, August 24, Saturday**: 
   - [x] 
