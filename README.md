@@ -6,7 +6,7 @@
 
 ____
 
-## *POSTING MY DAILY REPORTS*
+## *DAILY DIGEST*
 ____
 
 ![alt text](/image/l.png)
