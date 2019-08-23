@@ -1,7 +1,7 @@
 
 <img align="right" width="400" height="200" src="/image/ai.png">
 
-# **60 DAYS OF UDACITY** 
+# **60 DAYS OF UNMISSABLE UDACITY** 
 
 
 ____
