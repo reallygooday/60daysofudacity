@@ -684,6 +684,11 @@ ____
 ____
 - **Day 58, August 24, Saturday**: 
   - [x] experimented with image classifier using VGG16 Model;
+  - [x] link to Colab Jupyter Notebook:
+  
+           https://github.com/reallygooday/60daysofudacity/blob/master/Gender_Prediction.ipynb  
+  ![alt text](/image/gender_prediction.png)  
+  
   - [x] read article 'Optimizing Jupyter Notebook: Tips, Tricks, and nbextensions'
   - [x] link to the article: 
          
