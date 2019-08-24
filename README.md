@@ -683,9 +683,22 @@ ____
                    https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566524610070500  
 ____
 - **Day 58, August 24, Saturday**: 
-  - [x] 
-  - [x] Encouraged  the following wonderful scholars   
-  - [x] Link to Slack post:   
+  - [x] experimented with image classifier using VGG16 Model;
+  - [x] read article 'Optimizing Jupyter Notebook: Tips, Tricks, and nbextensions'
+  - [x] link to the article: 
+         
+         https://towardsdatascience.com/optimizing-jupyter-notebook-tips-tricks-and-nbextensions-26d75d502663);
+  - [x] read paper 'Pragmatically Informative Text Generation'
+  - [x] link to the paper: 
+  
+         https://arxiv.org/pdf/1904.01301.pdf).  
+  
+  - [x] Encouraged  the following wonderful scholars  @Quan @Olivia Wais @Edson Cavalcanti @Ramón Romero @T @Amresh Yadav @Ugesh S               @Ibrahim Salihu Yusuf @Brendan Odigwe @Pava @Aim @sunnets @Doaa Mohammad Isa Odat @Fanni Ikhwan @Gabir Yusuf @Hafsa Ansari               @Jinyi Tan not to get seduced by the idyllic weekend in the sun and to continue your productive learning.
+  
+  - [x] Link to Slack post:  
+  
+               https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566605067338500  
+  
 ____
 - **Day 59 August 25, Sunday**: 
   - [x] 
