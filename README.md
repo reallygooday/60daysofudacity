@@ -688,7 +688,6 @@ ____
   
            https://github.com/reallygooday/60daysofudacity/blob/master/Gender_Prediction.ipynb  
            
-  ![alt text](/image/gender_prediction.png)  
   ![alt text](/image/error.png)  
     
   - [x] read article 'Optimizing Jupyter Notebook: Tips, Tricks, and nbextensions'
