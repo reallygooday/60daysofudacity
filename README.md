@@ -706,9 +706,15 @@ ____
   
 ____
 - **Day 59 August 25, Sunday**: 
-  - [x] 
-  - [x] Encouraged  the following wonderful scholars   
-  - [x] Link to Slack post:      
+  - [x] daily digest: read Cornell Tech research papers about misuse, leaks of Private Data and how data privacy is evolving;
+  - [x] link to the list of research papers: http://www.cs.cornell.edu/~shmat/research.html ; 
+  - [x] takeaway: Vitaly Shmatikov, professor of CS at Cornell Tech, developed tools that can indicate if your data was misused; 
+  - [x] jokes: ...before I tell you my name, I'll need to know how you're planning to use it...;
+               ...camera, smartphone, smartwatch, smart glasses, smart TV, tracking device, I now have everything except privacy...;  
+  - [x] Encouraged  the following wonderful scholars   @Jacqueline @Pablo Carmona - Zuluaga @Quan @Brandon W @Abbie Weisenbloom @Ebtehal Khaled Seddiek @Rachesh @Tahir Khalil @Yassen Mehrez @Ugur Caliskan @Ibukun @uday.kiran @Idan Benaun @PJha @R Aishwarya @Saleeta Qadir @Daibin Raju @Faiz Kidwai @medhagupta098 @Gabor Soter @Hafsa Sam @Jade Mays;  
+  - [x] Link to Slack post:  
+  
+                  https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566738011007800  
 ____
 - **Day 60, August 26, Monday**: 
   - [x] 
