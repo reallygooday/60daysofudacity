@@ -719,6 +719,13 @@ ____
                   https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566738011007800  
 ____
 - **Day 60, August 26, Monday**: 
-  - [x] 
+  - [x]   practiced coding Transfer Learning with VGGNet;
+  - [x]   practiced coding Parallel Processing (running multiple instructions at the same time );
+  - [x]   read more about Transfer Learning from the Stanford course notes here http://cs231n.github.io/transfer-learning/;
+  - [x]   link to the open Stanford course: http://cs231n.github.io/ ;
+  - [x]   read Andrei Karpathy blog "Hacker's guide to Neural Networks" http://karpathy.github.io/neuralnets/;  
   - [x] Encouraged  the following wonderful scholars   
-  - [x] Link to Slack post:     
+         @qayyumb @Lakshay Wadhwa @Chetto13 @Ebude @Rachel Beldner @Tadewos G. Tadewos @Yassen Mehrez @Ugur Caliskan @Ibukun @Oge                @Padhma M @Aim @Ugesh S @Aim @Pakeeza. Keep up the amazing work !  
+  - [x] Link to Slack post:    
+  
+                        https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566858755322000  
