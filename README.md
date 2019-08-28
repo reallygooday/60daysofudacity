@@ -6,7 +6,11 @@
 
 ____
 
-## *DAILY DIGEST*
+## *DAILY DIGESTS OF THE REMARKABLE INTELLECTUAL ADVENTURE*
+
+The immensity of the Secure and Private AI subject is infinite. Every day of the 60daysofudacity had many questions of interest. For this to happen, I had been dependent on other Udacity Scholars. Many Udacity Scholars provided invaluable assistance combined with daily encouragements and support.My appreciation is bounless. 
+
+
 ____
 
 ![alt text](/image/l.png)
