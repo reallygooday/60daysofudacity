@@ -8,7 +8,7 @@ ____
 
 ## *60 DAILY DIGESTS OF THE REMARKABLE INTELLECTUAL ADVENTURE*
 
-The immensity of the Secure and Private AI subject is infinite. Every day of the #60daysofudacity had many questions of interest, but there was no day that did not reflect the community influence. I had been privileged to be a part of it. The Udacity community rendered help far beyond any expectations. For #60daysofudacity to happen, I had been dependent on other Udacity Scholars. It made all the difference between the steady learning progress and confusion. Many tireless Udacity Scholars provided me with invaluable assistance combined with priceless encouragements and countless ideas. My appreciation is boundless. 
+The immensity of the Secure and Private AI subject is infinite. Every day of the #60daysofudacity had many questions of interest, but there was no day that did not reflect the community influence. I had been privileged to be a part of it. The Udacity community rendered help far beyond any expectations. For #60daysofudacity to happen, I had been dependent on other Udacity Scholars. It made all the difference between the steady learning progress and confusion. Many Udacity Scholars provided me with invaluable assistance combined with encouragement and countless ideas. 
 
 
 ____
